@@ -1,23 +1,28 @@
-import { useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import './App.css'
 import MapComponent from './MapComponent';
+import ListOfJunkComponent from './ListOfJunkComponent';
 
 function App() {
+  const [mapStr, setMapStr] = useState("Select Location");
+
+  const handleChildData = (string : string) => {
+    setMapStr(string);
+  };
+
   return (
     <>
 
       <div>
         <h1>This Is The Junk Algorithm</h1>
       </div>
-      <MapComponent />
+      <MapComponent onDataReceived={handleChildData}/>
       <div className="card">
-        <button onClick={() => console.log("hi")}>
-        Get info
-        </button>
+        <h3>
+        {mapStr}
+        </h3>
+        <ListOfJunkComponent />
       </div>
-      <p className="read-the-docs">
-        Click here to learn more about fallout 4 junk
-      </p>
     </>
   )
 }

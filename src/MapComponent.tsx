@@ -1,23 +1,19 @@
-// App.js
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import mapImage from './map.png';
-import { markerData } from './fallout4.js';
-function MapComponent() {
+import { markerData, locale } from './fallout4.js';
+import { TSMarker } from './TSMarker.js';
+
+function MapComponent({onDataReceived} : any) {
+
+    const handleClick = (str : string) => {
+        onDataReceived(str);
+    };
+
     useEffect(() => {
 
-        /*var map = L.map('map', {
-            crs: L.CRS.Simple
-        });
-        var bounds: [number, number][]
-        //var bounds = L.latLngBounds(map.unproject([61953, 63758], 6), map.unproject([3583, 1775], 6));
-        bounds = [[0, 0], [500, 500]];
-        var image = L.imageOverlay(mapImage, bounds).addTo(map);
-
-        map.fitBounds(bounds);
-*/
-        var map = L.map('map', {
+    var map = L.map('map', {
 		scrollWheelZoom: 'center',
         maxZoom: 6,
 		minZoom: 1,
@@ -28,59 +24,26 @@ function MapComponent() {
     var bounds = L.latLngBounds(map.unproject([61953, 63758], 6), map.unproject([3583, 1775-yOffset], 6));
 	map.setMaxBounds(bounds);
 	map.setView(map.unproject([32768, 32768], 6), 1);
-     var image = L.imageOverlay(mapImage, bounds).addTo(map);
+    L.imageOverlay(mapImage, bounds).addTo(map);
 
-    function mapRange(x: number, oldMin: number, oldMax: number, newMin: number, newMax: number) {
-            return ((x - oldMin) / (oldMax - oldMin)) * (newMax - newMin) + newMin;
-        }
-        /*
-                var lng = Math.abs(data.locations[0].longitude)
-                var lat = data.locations[0].latitude
-        
-                var lngt = Math.abs(data.locations[1].longitude)
-                var latt = data.locations[1].latitude
-                //var X = mapRange(data.locations[1].longitude * 377895 + 257494, -100000, 100000, 0, 600);
-                //var Y = mapRange(data.locations[1].latitude * 379630 - 288321, -100000, 100000, 0, 600);
-                var num = 130
-                var numt = 1.1
-                var X = ((lng + numt) / (numt*2)) * num
-                var Y = ((lat + numt) / (numt*2)) * num
-        
-                var Xt = ((lngt + numt) / (numt*2)) * num
-                var Yt = ((latt + numt) / (numt*2)) * num
-        
-                console.log(data.locations[1].title)
-        
-                var sol = L.latLng([Y, X]);
-                L.marker(sol).addTo(map);
-        
-                //var solt = L.latLng([Yt, Xt]);
-                //L.marker(solt).addTo(map);
-        */
-       /*
-       var cX = 2560 + (42 * 256);
-        var cY = 2560 + (43 * 256);
-        var testX = ((-10420.6055 / 4096) * 256) + cX;
-        var testY = cY - ((12619.6797 / 4096) * 256);
-       
-       */
-       //var sol = L.latLng([ mapRange(markerData[index].y, 3583, 73758, 0, 500), mapRange(markerData[index].x, 3583, 62140, 0, 500)]);
-        //var m = L.marker(map.unproject([], 1), {
-        for(var i = 0; i < markerData.length; i++)
-        {
-        var index = 6
+    for(var i = 0; i < markerData.length; i++)
+    {
         var mx = markerData[i].x;
 		var my = markerData[i].y;
-        var m = L.marker(map.unproject([mx, my], map.getMaxZoom()), {
-			
-		})
-		m.addTo(map);
+        var m = new TSMarker([mx,my], map.unproject([mx, my], map.getMaxZoom()), {
+            title: locale.en.markerData[i].title ?? "will never happen"
+        })
+		m
+        .addTo(map).bindPopup(locale.en.markerData[i].title)
+        .on('click', function(e)
+    {
+        handleClick(e.target.options.title);
+        console.log("hi")
+    });
     }
-       //var sol = L.latLng([testX,testY]);
-        //L.marker(sol).addTo(map);
-        //m.addTo(map);
-        return () => {
-            map.remove();
+
+    return () => {
+        map.remove();
         };
     }, []);
 

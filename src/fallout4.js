@@ -2789,10 +2789,10 @@ export var markerData = [{
 },
 ];
 //2 -> 0,
-var locale = {
-	"en": {
-		"url": "http://fallout.wikia.com/wiki/",
-		"markerData": [{
+export var locale = {
+	en: {
+		url: "http://fallout.wikia.com/wiki/",
+		markerData: [{
 			title: "Diamond City",
 			page: "Diamond_City"
 		},
