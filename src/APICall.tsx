@@ -56,7 +56,8 @@ export async function getProductionSection(articleTitle: string): Promise<Respon
 
     for (const heading of headings) {
       const spanId = heading.querySelector('span')?.id || '';
-      if (spanId === 'Production' || heading.textContent?.includes('Production')) {
+      if (spanId === 'Production' || heading.textContent?.includes('Production')
+        || spanId === 'Locations' || heading.textContent?.includes('Locations')) {
         productionHeading = heading;
         break;
       }
@@ -92,6 +93,7 @@ export async function getProductionSection(articleTitle: string): Promise<Respon
           });
         }
       }
+      
       currentElement = currentElement.previousElementSibling;
     }
 
