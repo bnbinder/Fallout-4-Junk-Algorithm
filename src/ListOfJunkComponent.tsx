@@ -1,17 +1,38 @@
 import 'leaflet/dist/leaflet.css';
-import { getLocationsSection, formatLocations } from "./api.tsx";
+import { getProductionSection, getLocationsSection, format } from "./APICall.tsx";
+import { filterMaps, showAll } from './MapComponent.tsx';
 function ListOfJunkComponent() {
 
-    function submitSelect() {
+    async function submitSelect() {
             const dropdown = document.getElementById("dropdown") as HTMLSelectElement;
-            if(dropdown)
-            {
+            if(dropdown) {
                 const selected = dropdown.options[dropdown.selectedIndex].text
-                alert(getLocationsSection(selected + ' (Fallout 4)').then(result => {
-                    formatLocations(result);
-                }));
+                var list : string[] = [];
+                var bigList : string[] = [];
+                var biggestList : string[] = [];
+                
+                const result = await getProductionSection(selected + ' (Fallout 4)');
+                list = format(result);
+
+                console.log(list);
+                
+                const resultList = document.getElementById('results') as HTMLSelectElement;
+                resultList.innerHTML = "";
+                for (const element of list) {
+                    const result = await getLocationsSection(element + ' (Fallout 4)');
+                    bigList = format(result);
+                    console.log(bigList)
+                    bigList.forEach(bigElement => {
+                        biggestList.push(bigElement)
+                        const newItem = document.createElement('li');
+                        newItem.textContent = bigElement;
+                        resultList.appendChild(newItem);
+                    });
+                }
+                showAll()
+                filterMaps(biggestList)
             }
-        }
+    };
         
     const junk = [
     "Acid",
@@ -19,7 +40,7 @@ function ListOfJunkComponent() {
     "Aluminum",
     "Antiseptic",
     "Asbestos",
-    "Ballistic Fiber",
+    "Ballistic fiber",
     "Bone",
     "Ceramic",
     "Circuitry",
@@ -29,14 +50,14 @@ function ListOfJunkComponent() {
     "Cork",
     "Crystal",
     "Fertilizer",
-    "Fiber Optics",
+    "Fiber optics",
     "Fiberglass",
     "Gears",
     "Glass",
     "Gold",
     "Lead",
     "Leather",
-    "Nuclear Material",
+    "Nuclear material",
     "Oil",
     "Plastic",
     "Rubber",
@@ -56,7 +77,14 @@ function ListOfJunkComponent() {
             <br/>
             <button onClick={submitSelect}>
                 Find Optimal Path From Selected Location
+            </button> 
+            <br/>
+            <button onClick={showAll}>
+                showall
             </button>
+            <ul id = "results">
+
+            </ul>
         </div>
     );
 }

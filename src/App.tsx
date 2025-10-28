@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import './App.css'
 import MapComponent from './MapComponent';
 import ListOfJunkComponent from './ListOfJunkComponent';
+import { runOnceHashMap } from './APICall';
 
 function App() {
   const [mapStr, setMapStr] = useState("Select Location");
@@ -9,6 +10,10 @@ function App() {
   const handleChildData = (string : string) => {
     setMapStr(string);
   };
+
+  useEffect(() => {
+    runOnceHashMap();
+  }, []);
 
   return (
     <>

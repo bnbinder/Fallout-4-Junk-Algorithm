@@ -5,47 +5,48 @@ import mapImage from './map.png';
 import { markerData, locale } from './fallout4.js';
 import { TSMarker } from './TSMarker.js';
 
-function MapComponent({onDataReceived} : any) {
+var map : L.Map
+var removed : TSMarker[] = []
 
-    const handleClick = (str : string) => {
+function MapComponent({ onDataReceived }: any) {
+
+    const handleClick = (str: string) => {
         onDataReceived(str);
     };
 
     useEffect(() => {
-
-    var map = L.map('map', {
-		scrollWheelZoom: 'center',
-        maxZoom: 6,
-		minZoom: 1,
-		crs: L.CRS.Simple
-	})
-	map.zoomControl.setPosition('bottomright');
-    var yOffset = -5000
-    var bounds = L.latLngBounds(map.unproject([61953, 63758], 6), map.unproject([3583, 1775-yOffset], 6));
-	map.setMaxBounds(bounds);
-	map.setView(map.unproject([32768, 32768], 6), 1);
-    L.imageOverlay(mapImage, bounds).addTo(map);
-
-    for(var i = 0; i < markerData.length; i++)
-    {
-        var mx = markerData[i].x;
-		var my = markerData[i].y;
-        var m = new TSMarker([mx,my], map.unproject([mx, my], map.getMaxZoom()), {
-            title: locale.en.markerData[i].title ?? "will never happen"
+        map = L.map('map', {
+            scrollWheelZoom: 'center',
+            maxZoom: 6,
+            minZoom: 1,
+            crs: L.CRS.Simple
         })
-		m
-        .addTo(map).bindPopup(locale.en.markerData[i].title)
-        .on('click', function(e)
-    {
-        handleClick(e.target.options.title);
-        console.log("hi")
-    });
-    }
+        map.zoomControl.setPosition('bottomright');
+        var yOffset = -5000
+        var bounds = L.latLngBounds(map.unproject([61953, 63758], 6), map.unproject([3583, 1775 - yOffset], 6));
+        map.setMaxBounds(bounds);
+        map.setView(map.unproject([32768, 32768], 6), 1);
+        L.imageOverlay(mapImage, bounds).addTo(map);
 
-    return () => {
-        map.remove();
+        for (var i = 0; i < markerData.length; i++) {
+            var mx = markerData[i].x;
+            var my = markerData[i].y;
+            var m = new TSMarker([mx, my], map.unproject([mx, my], map.getMaxZoom()), {
+                title: locale.en.markerData[i].title ?? "will never happen"
+            })
+            m
+                .addTo(map).bindPopup(locale.en.markerData[i].title)
+                .on('click', function (e) {
+                    handleClick(e.target.options.title);
+                    console.log("hi")
+                });
+        }
+
+        return () => {
+            map.remove();
         };
-    }, []);
+    },
+        []);
 
     return (
         <div>
@@ -61,3 +62,29 @@ function MapComponent({onDataReceived} : any) {
 }
 
 export default MapComponent;
+
+
+export function filterMaps(list: string[]) {
+
+    const hashbrown = new Map()
+    list.forEach((element, index) => {
+        hashbrown.set(element, index);
+    });
+
+    console.log(hashbrown)
+
+    map.eachLayer((layer: any) => {
+        if (layer instanceof TSMarker && !hashbrown.has(layer.options?.title)) {
+            removed.push(layer)
+            map.removeLayer(layer);
+        }
+    });
+}
+
+export function showAll() {
+    if(removed) {
+        removed.forEach((layer) => {
+                map.addLayer(layer);
+        });
+    }
+}
