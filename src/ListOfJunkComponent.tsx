@@ -3,6 +3,37 @@ import { getProductionSection, getLocationsSection, format } from "./APICall.tsx
 import { filterMaps, showAll } from './MapComponent.tsx';
 function ListOfJunkComponent() {
 
+    async function getJunkAndComponentData(selected: string) {
+        var list: string[] = [];
+        var bigList: string[] = [];
+        var biggestList: Map<string, string[]> = new Map();
+
+        const result = await getProductionSection(selected + ' (Fallout 4)');
+        list = format(result);
+
+        const resultList = document.getElementById('results') as HTMLSelectElement;
+        resultList.innerHTML = "";
+        for (const element of list) {
+            let result = await getLocationsSection(element + ' (Fallout 4)');
+            if ("error" in result) {
+                console.log("true")
+                result = await getLocationsSection(element);
+            }
+            bigList = format(result);
+            bigList.forEach(bigElement => {
+                biggestList.set(bigElement, [])
+                biggestList.get(bigElement)?.push(element)
+            });
+        }
+        return JSON.stringify(Object.fromEntries(biggestList));
+    }
+
+    async function goThroughAll() {
+        junk.forEach(item => {
+            console.log(getJunkAndComponentData(item))
+        })
+    }
+
     async function submitSelect() {
         const dropdown = document.getElementById("dropdown") as HTMLSelectElement;
         if (dropdown) {

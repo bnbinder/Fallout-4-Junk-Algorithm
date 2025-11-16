@@ -187,7 +187,6 @@ export async function getLocationsSection(articleTitle: string): Promise<Respons
     }
 }
 
-
 export function format(result: Response): string[] {
     if (isError(result)) {
         console.error(`Error: ${result.error}`);
