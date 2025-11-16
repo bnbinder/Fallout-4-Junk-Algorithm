@@ -19,9 +19,10 @@ function ListOfJunkComponent() {
             for (const element of list) {
                 console.log(element)
                 let result = await getLocationsSection(element + ' (Fallout 4)');
-                if ("error" in result)
+                if ("error" in result) {
                     console.log("true")
-                result = await getLocationsSection(element);
+                    result = await getLocationsSection(element);
+                }
                 bigList = format(result);
                 bigList.forEach(bigElement => {
                     biggestList.push(bigElement)

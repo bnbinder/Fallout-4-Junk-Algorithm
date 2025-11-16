@@ -2938,7 +2938,7 @@ export var locale = {
         },
         {
             title: "Cambridge Crater",
-            page: "Cambridge_crater"
+            page: "Cambridge_Crater"
         },
         {
             title: "Monsignor Plaza",
@@ -3338,7 +3338,7 @@ export var locale = {
         },
         {
             title: "The Institute",
-            page: "The_Institute_(location)"
+            page: "The_Institute"
         },
         {
             title: "C.I.T. Ruins",
@@ -3414,7 +3414,7 @@ export var locale = {
         },
         {
             title: "Mass Fusion Disposal Site",
-            page: "Mass_Fusion_disposal_site"
+            page: "Mass_Fusion_Disposal_Site"
         },
         {
             title: "Mass Fusion Executive Suite",
@@ -3550,7 +3550,7 @@ export var locale = {
         },
         {
             title: "Electrical Hobbyist's Club",
-            page: "Electrical_Hobbyist%27s_club"
+            page: "Electrical_Hobbyist's_Club"
         },
         {
             title: "Coastal Cottage",
@@ -3661,7 +3661,7 @@ export var locale = {
             page: "Museum_of_Witchcraft"
         },
         {
-            title: "Sanctuary",
+            title: "Sanctuary Hills",
             page: "Sanctuary_Hills"
         },
         {
@@ -3730,7 +3730,7 @@ export var locale = {
         },
         {
             title: "Super Duper Mart",
-            page: "Super_Duper_Mart_(Fallout_4)"
+            page: "Super_Duper_Mart"
         },
         {
             title: "Swan's Pond",
@@ -3890,7 +3890,7 @@ export var locale = {
         },
         {
             title: "Fort Hagen Filling Station",
-            page: "Fort_Hagen_filling_station"
+            page: "Fort_Hagen_Filling_station"
         },
         {
             title: "Dartmouth Professional Building",
@@ -3963,55 +3963,72 @@ export var locale = {
         {
             title: "Long Wharf",
             page: "Long_Wharf"
-        }, {
+        },
+        {
             title: "Holy Mission Congregation",
             page: "Holy_Mission_Congregation"
-        }, {
+        },
+        {
             title: "Cambridge Academic Center",
             page: "Cambridge_Academic_Center"
-        }, {
+        },
+        {
             title: "Collegiate Administration Building",
             page: "Collegiate_Administration_Building"
-        }, {
+        },
+        {
             title: "Cambridge Campus Diner",
             page: "Cambridge_Campus_Diner"
-        }, {
+        },
+        {
             title: "Campus Law Offices",
             page: "Campus_Law_Offices"
-        }, {
+        },
+        {
             title: "Cambridge Graveyard",
             page: "Cambridge_Graveyard"
-        }, {
+        },
+        {
             title: "Cambridge Raider Base",
             page: "Cambridge_Raider_Base"
-        }, {
+        },
+        {
             title: "Cambridge Baseball Diamond",
             page: "Cambridge_Baseball_Diamond"
-        }, {
+        },
+        {
             title: "Cambridge Church",
             page: "Cambridge_Church"
-        }, {
+        },
+        {
             title: "Cambridge Construction Site",
             page: "Cambridge_Construction_Site"
-        }, {
+        },
+        {
             title: "East C.I.T. Raider Camp",
             page: "East_C.I.T._Raider_Camp"
-        }, {
+        },
+        {
             title: "Science Center Gift Shop",
             page: "Science_Center_Gift_Shop"
-        }, {
+        },
+        {
             title: "Major Crossroad",
             page: "Major_Crossroad"
-        }, {
+        },
+        {
             title: "Freeway Pileup",
             page: "Freeway_Pileup"
-        }, {
+        },
+        {
             title: "Back Alley Camp",
             page: "Back_Alley_Camp"
-        }, {
+        },
+        {
             title: "Raider Alleyway Outpost",
             page: "Raider_Alleyway_Outpost"
-        }, {
+        },
+        {
             title: "Subway Station",
             page: "Subway_Station"
         },

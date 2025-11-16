@@ -145,15 +145,14 @@ export async function getLocationsSection(articleTitle: string): Promise<Respons
         let currentElement = locationsHeading.nextElementSibling;
 
         while (currentElement && !['H2', 'H3'].includes(currentElement.tagName)) {
+            var seentwotime: Map<string, string> = new Map();
             if (currentElement.tagName === 'UL') {
                 const listItems = currentElement.querySelectorAll<HTMLElement>('li');
                 if (listItems) {
-                    //console.log(listItems)
                     listItems.forEach(li => {
                         const text = li.querySelectorAll('a');
-                        var seentwotime: Map<string, string> = new Map();
                         text.forEach(element => {
-                            var tempp = element.title.replace("(Fallout 4)", "").trim();
+                            var tempp = element.title.replace("(Fallout 4)", "").replace("(location)", "").trim();
                             if (locationNames.has(tempp.toLowerCase()) && !seentwotime.has(tempp)) {
                                 locationsItems.push(tempp);
                                 seentwotime.set(tempp, "")
@@ -161,6 +160,16 @@ export async function getLocationsSection(articleTitle: string): Promise<Respons
                         });
                     });
                 }
+            }
+            else if (currentElement.tagName === 'P') {
+                const text = currentElement.querySelectorAll('a');
+                text.forEach(element => {
+                    var tempp = element.title.replace("(Fallout 4)", "").replace("(location)", "").trim();
+                    if (locationNames.has(tempp.toLowerCase()) && !seentwotime.has(tempp)) {
+                        locationsItems.push(tempp);
+                        seentwotime.set(tempp, "")
+                    }
+                });
             }
             currentElement = currentElement.nextElementSibling;
             console.log("next")
