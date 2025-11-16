@@ -5,8 +5,8 @@ import mapImage from './map.png';
 import { markerData, locale } from './fallout4.js';
 import { TSMarker } from './TSMarker.js';
 
-var map : L.Map
-var removed : TSMarker[] = []
+var map: L.Map
+var removed: TSMarker[] = []
 
 function MapComponent({ onDataReceived }: any) {
 
@@ -84,9 +84,9 @@ export function filterMaps(list: string[]) {
 }
 
 export function showAll() {
-    if(removed) {
+    if (removed) {
         removed.forEach((layer) => {
-                map.addLayer(layer);
+            map.addLayer(layer);
         });
     }
 }
