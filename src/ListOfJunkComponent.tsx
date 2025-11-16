@@ -13,24 +13,28 @@ function ListOfJunkComponent() {
                 
                 const result = await getProductionSection(selected + ' (Fallout 4)');
                 list = format(result);
-
-                console.log(list);
                 
                 const resultList = document.getElementById('results') as HTMLSelectElement;
                 resultList.innerHTML = "";
                 for (const element of list) {
-                    const result = await getLocationsSection(element + ' (Fallout 4)');
+                    console.log(element)
+                    let result = await getLocationsSection(element + ' (Fallout 4)');
+                    if ("error" in result)
+                        console.log("true")
+                        result = await getLocationsSection(element);
                     bigList = format(result);
-                    console.log(bigList)
                     bigList.forEach(bigElement => {
                         biggestList.push(bigElement)
-                        const newItem = document.createElement('li');
-                        newItem.textContent = bigElement;
-                        resultList.appendChild(newItem);
                     });
                 }
+
                 showAll()
-                filterMaps(biggestList)
+                const hashbrown = filterMaps(biggestList)
+                hashbrown.forEach((index, item) => {
+                    const newItem = document.createElement('li');
+                    newItem.textContent = item;
+                    resultList.appendChild(newItem);
+                })
             }
     };
         

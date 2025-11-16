@@ -79,6 +79,8 @@ export function filterMaps(list: string[]) {
             map.removeLayer(layer);
         }
     });
+
+    return hashbrown;
 }
 
 export function showAll() {
