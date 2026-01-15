@@ -16,22 +16,48 @@ function ListOfJunkComponent() {
         for (const element of list) {
             let result = await getLocationsSection(element + ' (Fallout 4)');
             if ("error" in result) {
-                console.log("true")
                 result = await getLocationsSection(element);
             }
             bigList = format(result);
-            bigList.forEach(bigElement => {
-                biggestList.set(bigElement, [])
-                biggestList.get(bigElement)?.push(element)
-            });
+            biggestList.set(element, bigList)
         }
-        return JSON.stringify(Object.fromEntries(biggestList));
+        return biggestList;
+    }
+
+    function getAllJunkPromise() {
+        const promises: Promise<Map<string, string[]>>[] = [];
+        junk.forEach(item => {
+            promises.push(getJunkAndComponentData(item));
+        });
+        return Promise.all(promises);
     }
 
     async function goThroughAll() {
-        junk.forEach(item => {
-            console.log(getJunkAndComponentData(item))
-        })
+        const data = new Map<string, Map<string, string[]>>();
+        const dataAll = await getAllJunkPromise();
+        junk.forEach((item, index) => {
+            data.set(item, dataAll[index]);
+        });
+
+        console.log(data)
+
+        let dataString = JSON.stringify(Object.fromEntries(
+            Array.from(data.entries()).map(([key, value]) => [
+                key,
+                Object.fromEntries(value),
+            ])
+        ))
+
+        console.log(dataString)
+        const blob = new Blob([dataString], { type: "application/json" });
+        const url = URL.createObjectURL(blob);
+
+        const link = document.createElement("a");
+        link.href = url;
+        link.download = "data.json";
+
+        link.click();
+        URL.revokeObjectURL(url);
     }
 
     async function submitSelect() {
@@ -116,7 +142,10 @@ function ListOfJunkComponent() {
             </button>
             <br />
             <button onClick={showAll}>
-                showall
+                show all
+            </button>
+            <button onClick={goThroughAll}>
+                go through all
             </button>
             <ul id="results">
 

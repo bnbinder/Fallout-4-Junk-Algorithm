@@ -1,0 +1,3343 @@
+{
+    "Acid": {
+        "Abraxo cleaner ": [
+            "Fort Hagen",
+            "Greenetech Genetics",
+            "Vault 95",
+            "Vault 81",
+            "Vault 114",
+            "Poseidon Energy",
+            "Parsons State Insane Asylum",
+            "West Roxbury station",
+            "Faneuil Hall",
+            "Sandy Coves Convalescent Home",
+            "Cambridge campus diner",
+            "Quincy ruins",
+            "Suffolk County Charter School",
+            "Super Duper Mart",
+            "Boston mayoral shelter"
+        ],
+        "Abraxo cleaner industrial grade": [],
+        "Anti freeze bottle ": [
+            "Wilson Atomatoys factory",
+            "Quincy ruins",
+            "Quincy Quarries",
+            "Jamaica Plain",
+            "Saugus Ironworks",
+            "College Square",
+            "Westing Estate",
+            "Mass Fusion containment shed",
+            "Graygarden",
+            "Hardware Town",
+            "Diamond City",
+            "General Atomics Galleria",
+            "Vault 114",
+            "Charles View Amphitheater",
+            "Old Gullet sinkhole",
+            "Suffolk County Charter School",
+            "The Prydwen",
+            "Libertalia",
+            "Med-Tek Research",
+            "Yangtze",
+            "Medical Center metro",
+            "ArcJet Systems",
+            "Greenetech Genetics",
+            "USS Constitution",
+            "Greater Mass Blood Clinic",
+            "Boston Public Library",
+            "Malden Center",
+            "Egret Tours Marina",
+            "Fort Hagen",
+            "Vault 95",
+            "HalluciGen, Inc.",
+            "Nahant Oceanological Society"
+        ],
+        "Bag of fertilizer ": [
+            "Graygarden",
+            "Greentop Nursery",
+            "Vault 81",
+            "Abernathy farm",
+            "Chestnut Hillock Reservoir",
+            "East Boston police station",
+            "RobCo Sales & Service Center",
+            "Sandy Coves Convalescent Home",
+            "East Boston Preparatory School",
+            "Fraternal Post 115"
+        ],
+        "Bloatfly gland ": [],
+        "Bloodbug proboscis ": [],
+        "Coolant ": [
+            "Red Rocket truck stop"
+        ],
+        "Ichor sac ": [],
+        "Makeshift battery ": [
+            "Sanctuary Hills",
+            "Thicket Excavations",
+            "Egret Tours Marina",
+            "Andrew station",
+            "Hardware Town",
+            "Parkview Apartments",
+            "Pickman Gallery",
+            "East Boston Preparatory School",
+            "Mass Pike Interchange",
+            "Robotics disposal ground",
+            "Oberland station",
+            "Croup Manor",
+            "Federal ration stockpile",
+            "Cambridge campus diner"
+        ],
+        "Suprathaw antifreeze ": [
+            "Federal surveillance center K-21B",
+            "Yangtze",
+            "Poseidon Energy",
+            "Wilson Atomatoys factory",
+            "The Prydwen",
+            "Wicked Shipping Fleet Lockup"
+        ],
+        "Undamaged abraxo cleaner": []
+    },
+    "Adhesive": {
+        "Duct tape ": [
+            "Sanctuary Hills",
+            "Med-Tek Research",
+            "General Atomics factory",
+            "Vault 95",
+            "HalluciGen, Inc.",
+            "The Shamrock Taphouse"
+        ],
+        "Pack of duct tape": [
+            "ArcJet Systems",
+            "Back Street Apparel",
+            "Pickman Gallery",
+            "Hardware Town",
+            "The Institute"
+        ],
+        "Military grade duct tape": [
+            "Vault 114",
+            "Fort Hagen",
+            "Fort Hagen satellite array",
+            "Federal supply cache 84NE",
+            "Gunners plaza",
+            "Sandy Coves Convalescent Home",
+            "National Guard training yard",
+            "Ticonderoga",
+            "Goodneighbor"
+        ],
+        "Wonderglue ": [
+            "Fort Hagen",
+            "Vault 81",
+            "Sandy Coves Convalescent Home",
+            "Greater Mass Blood Clinic",
+            "Hardware Town",
+            "Nahant Oceanological Society",
+            "Fort Hagen",
+            "Vault 114"
+        ],
+        "Economy wonderglue": [],
+        "Sealed wonderglue": [],
+        "Vegetable starch ": []
+    },
+    "Aluminum": {
+        "Alarm clock ": [
+            "Sandy Coves Convalescent Home",
+            "HalluciGen, Inc.",
+            "Mass Fusion building",
+            "Vault 81",
+            "Vault 95"
+        ],
+        "Aluminum can ": [
+            "Walden Pond",
+            "Federal ration stockpile",
+            "Vault 95",
+            "Four Leaf Fishpacking plant",
+            "Sandy Coves Convalescent Home",
+            "Fort Hagen",
+            "Cambridge Polymer Labs",
+            "Mahkra Fishpacking",
+            "Thicket Excavations",
+            "Vault 81",
+            "Vault 114",
+            "Saugus Ironworks",
+            "Drumlin Diner",
+            "East Boston Preparatory School",
+            "County crossing",
+            "General Atomics factory",
+            "Wicked Shipping Fleet Lockup",
+            "Starlight Drive In",
+            "Corvega assembly plant",
+            "Malden Center"
+        ],
+        "Aluminum canister ": [
+            "HalluciGen, Inc.",
+            "Med-Tek Research",
+            "Cambridge Polymer Labs",
+            "Wilson Atomatoys corporate HQ",
+            "General Atomics factory",
+            "General Atomics Galleria",
+            "The Prydwen",
+            "Suffolk County Charter School",
+            "Vault 81",
+            "Vault 95",
+            "Rocky cave",
+            "Lake Quannapowitt",
+            "The Mechanist's lair"
+        ],
+        "Applicator": [
+            "The Institute",
+            "The Institute"
+        ],
+        "Cake pan ": [
+            "General Atomics Galleria",
+            "Mean Pastries",
+            "Boston Public Library"
+        ],
+        "Carlisle typewriter ": [
+            "Back Street Apparel",
+            "Federal Surveillance Center K-21B",
+            "Fort Strong",
+            "Gunners plaza",
+            "Mass Bay Medical Center",
+            "Medford Memorial Hospital",
+            "Suffolk County Charter School",
+            "Fort Hagen satellite array"
+        ],
+        "Cauterizer": [
+            "The Institute"
+        ],
+        "Coolant cap ": [
+            "Corvega assembly plant",
+            "Mass Fusion containment shed",
+            "Diamond City"
+        ],
+        "Ear examiner": [
+            "The Institute",
+            "Fort Hagen"
+        ],
+        "Hubcap ": [
+            "Corvega assembly plant",
+            "Starlight Drive In"
+        ],
+        "Inactive distress pulser": [
+            "Cambridge Police Station",
+            "Recon bunker Theta"
+        ],
+        "Industrial oil canister ": [
+            "Dunwich Borers",
+            "Federal Surveillance Center K-21B",
+            "Rocky cave",
+            "Suffolk County Charter School",
+            "Prost Bar",
+            "RobCo Sales & Service Center"
+        ],
+        "Recorder": [
+            "The Institute"
+        ],
+        "Ring stand ": [
+            "University Point",
+            "Combat Zone",
+            "Greater Mass Blood Clinic",
+            "HalluciGen, Inc.",
+            "Mass Bay Medical Center",
+            "Railroad HQ",
+            "Weston water treatment plant",
+            "Yangtze"
+        ],
+        "Sensor": [
+            "The Institute"
+        ],
+        "Spanner ": [
+            "The Institute"
+        ],
+        "Surgical tray ": [
+            "Vault 81",
+            "Vault 95"
+        ],
+        "Sweeper": [
+            "The Institute"
+        ],
+        "Toy rocketship ": [],
+        "Tray ": [
+            "Four Leaf Fishpacking plant",
+            "Mahkra Fishpacking"
+        ],
+        "Tri tool": [
+            "The Institute"
+        ],
+        "TV dinner tray ": [
+            "Diamond City",
+            "College Square",
+            "Sanctuary Hills"
+        ],
+        "Tweezers ": [
+            "The Institute"
+        ],
+        "Wakemaster alarm clock ": [
+            "Sandy Coves Convalescent Home",
+            "Cabot House",
+            "The Institute",
+            "ArcJet Systems",
+            "Natick Banks",
+            "Parsons State Insane Asylum",
+            "Super Duper Mart",
+            "Pickman Gallery",
+            "RobCo Sales & Service Center"
+        ]
+    },
+    "Antiseptic": {
+        "Abraxo cleaner ": [
+            "Fort Hagen",
+            "Greenetech Genetics",
+            "Vault 95",
+            "Vault 81",
+            "Vault 114",
+            "Poseidon Energy",
+            "Parsons State Insane Asylum",
+            "West Roxbury station",
+            "Faneuil Hall",
+            "Sandy Coves Convalescent Home",
+            "Cambridge campus diner",
+            "Quincy ruins",
+            "Suffolk County Charter School",
+            "Super Duper Mart",
+            "Boston mayoral shelter"
+        ],
+        "Abraxo cleaner industrial grade": [],
+        "Blood sac ": [],
+        "Empty blood sac ": [],
+        "Industrial solvent ": [
+            "Poseidon Energy",
+            "Fort Strong",
+            "Greenetech Genetics",
+            "Gwinnett Brewery",
+            "HalluciGen, Inc.",
+            "Hardware Town",
+            "The Institute",
+            "Massachusetts State House",
+            "Pickman Gallery",
+            "Ticker Tape Lounge",
+            "Mass Bay Medical Center",
+            "Wilson Atomatoys corporate HQ"
+        ],
+        "Toothpaste ": [
+            "Parsons State Insane Asylum",
+            "Vault 75",
+            "Back Street Apparel"
+        ],
+        "Turpentine ": [
+            "Yangtze"
+        ],
+        "Undamaged abraxo cleaner": []
+    },
+    "Asbestos": {
+        "Biometric scanner": [
+            "Decrepit factory",
+            "The Institute",
+            "Mass Bay Medical Center",
+            "Medford Memorial Hospital",
+            "Med-Tek Research",
+            "Milton General Hospital",
+            "Parsons State Insane Asylum",
+            "Sandy Coves Convalescent Home",
+            "Fort Hagen satellite array",
+            "The Mechanist's lair"
+        ],
+        "Chalk ": [
+            "Parsons State Insane Asylum",
+            "Fens Street sewer",
+            "Fort Hagen",
+            "Fraternal Post 115",
+            "Poseidon Energy",
+            "Trinity Tower",
+            "USAF Satellite Station Olivia"
+        ],
+        "Cigarette carton ": [
+            "Mass Fusion building",
+            "BADTFL regional office",
+            "Vault 95",
+            "Dunwich Borers",
+            "Fallon's department store",
+            "General Atomics factory",
+            "Forest Grove marsh",
+            "The Prydwen",
+            "Boston mayoral shelter",
+            "Charles View Amphitheater",
+            "Combat Zone",
+            "Covenant",
+            "Vault 81",
+            "Cabot House",
+            "The Institute"
+        ],
+        "Coffee pot ": [],
+        "Extinguisher ": [
+            "Sanctuary Hills"
+        ],
+        "Luxobrew coffee pot ": [
+            "Corvega assembly plant",
+            "West Everett Estates",
+            "Skylanes Flight 1981",
+            "Parsons State Insane Asylum",
+            "Greenetech Genetics",
+            "Lexington",
+            "Beantown Brewery"
+        ],
+        "Oven mitt ": [
+            "Jamaica Plain",
+            "Monsignor Plaza",
+            "The Shamrock Taphouse",
+            "Shaw High School",
+            "Spectacle Island",
+            "Cabot House",
+            "Spectacle Island",
+            "Vault 81"
+        ],
+        "Pack of cigarettes ": [
+            "Andrew station",
+            "D.B. Technical High School",
+            "HalluciGen, Inc.",
+            "Saugus Ironworks",
+            "Vault 114",
+            "Vault 81",
+            "The Institute",
+            "Vault 81",
+            "Cabot House",
+            "Harbormaster Hotel",
+            "Vault 75",
+            "Vault 111",
+            "Vault 114"
+        ],
+        "Rat poison ": [
+            "East Boston Preparatory School",
+            "Greenetech Genetics",
+            "Cambridge Police Station",
+            "Federal surveillance center K-21B",
+            "Natick Banks",
+            "Vault 75",
+            "Dartmouth Professional Building",
+            "Hawthorne Estate",
+            "Fort Hagen satellite array",
+            "The Mechanist's lair"
+        ],
+        "Teapot ": [
+            "Cambridge Polymer Labs",
+            "Old Gullet sinkhole"
+        ]
+    },
+    "Ballistic fiber": {
+        "Military ammo bag ": [
+            "Finch farm",
+            "Science Center gift shop",
+            "RobCo Sales & Service Center"
+        ],
+        "Military grade duct tape ": [
+            "Vault 114",
+            "Fort Hagen",
+            "Fort Hagen satellite array",
+            "Federal supply cache 84NE",
+            "Gunners plaza",
+            "Sandy Coves Convalescent Home",
+            "National Guard training yard",
+            "Ticonderoga",
+            "Goodneighbor"
+        ]
+    },
+    "Bone": {
+        "Brahmin skull ": [],
+        "Cat remains": [],
+        "Deathclaw hand ": [],
+        "Femur ": [
+            "Med-Tek Research",
+            "Long Wharf"
+        ],
+        "Human jaw": [],
+        "Left arm bones": [],
+        "Left foot bones": [],
+        "Left hand bones": [],
+        "Mole rat teeth": [
+            "Railroad HQ"
+        ],
+        "Pelvis bones": [],
+        "Rib cage": [],
+        "Rib cage and pelvis": [],
+        "Right hand bones": [],
+        "Right leg bones": [],
+        "Skull": [
+            "Fens Street sewer",
+            "Rotten landfill",
+            "Diamond City",
+            "Campus law offices",
+            "Med-Tek Research",
+            "Wilson Atomatoys corporate HQ",
+            "Spectacle Island",
+            "Wildwood Cemetery",
+            "Park Street station",
+            "Back Street Apparel",
+            "Medford Memorial Hospital",
+            "The Prydwen",
+            "Fallon's department store",
+            "Pickman Gallery",
+            "Swan's Pond",
+            "D.B. Technical High School",
+            "Med-Tek Research",
+            "USAF Satellite Station Olivia"
+        ],
+        "Skull eye socket": [],
+        "Spine": [],
+        "Tibia": [
+            "Cambridge Polymer Labs",
+            "Fort Strong",
+            "Pickman Gallery",
+            "Massachusetts State House",
+            "Oberland station"
+        ],
+        "Upper skull": []
+    },
+    "Ceramic": {
+        "Ashtray ": [
+            "Federal Surveillance Center K-21B",
+            "Fort Hagen",
+            "Greenetech Genetics",
+            "Cambridge Police Station",
+            "Fallon's department store",
+            "HalluciGen, Inc.",
+            "Mass Fusion building",
+            "Gunners plaza",
+            "Parsons State Insane Asylum",
+            "The Mechanist's lair",
+            "The Institute",
+            "Easy City Downs",
+            "The Prydwen",
+            "College Square",
+            "Vault 95",
+            "Cambridge Police Station",
+            "General Atomics factory",
+            "Vault 75",
+            "Vault 114",
+            "Fort Hagen",
+            "HalluciGen, Inc.",
+            "Hubris Comics",
+            "Kendall Hospital",
+            "Poseidon Energy",
+            "Yangtze",
+            "Vault 81",
+            "Cabot House"
+        ],
+        "Bowl ": [
+            "The Gwinnett Restaurant",
+            "Jamaica Plain",
+            "Shaw High School",
+            "Andrew station",
+            "College Square",
+            "D.B. Technical High School",
+            "Gunners plaza",
+            "Hubris Comics",
+            "Railroad HQ",
+            "Ticker Tape Lounge",
+            "Holy Mission Congregation",
+            "Boston Public Library",
+            "Vault 81"
+        ],
+        "Cat remains": [],
+        "Ceramic bowl": [
+            "Combat Zone",
+            "D.B. Technical High School",
+            "Diamond City"
+        ],
+        "Coffee cup ": [],
+        "Dirty ashtray": [],
+        "Empty willow vase ": [],
+        "Empty teal vase ": [],
+        "Floral vase ": [
+            "Vault 81",
+            "Nahant Chapel",
+            "Covenant",
+            "Hesters Consumer Robotics",
+            "Mahkra Fishpacking",
+            "Medford Memorial Hospital",
+            "Mystic Pines",
+            "Sandy Coves Convalescent Home",
+            "The Shamrock Taphouse",
+            "Ticonderoga"
+        ],
+        "Garden gnome (Far Harbor)": [],
+        "High-powered magnet": [
+            "Mass Bay Medical Center",
+            "Boston Airport",
+            "Milton General Hospital",
+            "Medford Memorial Hospital",
+            "Electrical Hobbyist's Club",
+            "Atom Cats garage",
+            "Vault 81",
+            "Bunker Hill",
+            "Drumlin Diner",
+            "The Institute",
+            "RobCo Sales & Service Center"
+        ],
+        "Red plate ": [
+            "Fallon's department store",
+            "Jamaica Plain",
+            "The Slog",
+            "Vault 95",
+            "Covenant",
+            "University Point",
+            "USS Constitution",
+            "Vault 81",
+            "Cabot House",
+            "Vault 114",
+            "The Institute"
+        ],
+        "Saucer": [
+            "West Roxbury station",
+            "Vault 81",
+            "Gunners plaza",
+            "Shaw High School",
+            "Boston Public Library"
+        ],
+        "Teal vase ": [
+            "Sandy Coves Convalescent Home",
+            "Fallon's department store",
+            "Fort Strong",
+            "Mystic Pines"
+        ],
+        "Teapot ": [
+            "Cambridge Polymer Labs",
+            "Old Gullet sinkhole"
+        ],
+        "Teacup ": [
+            "Cambridge Polymer Labs",
+            "Old Gullet sinkhole",
+            "Boston Public Library"
+        ],
+        "Umbrella stand": [
+            "Boston mayoral shelter",
+            "Croup Manor",
+            "Kingsport Lighthouse",
+            "Salem",
+            "Cabot House",
+            "Salem",
+            "Wilson Atomatoys corporate HQ"
+        ],
+        "Vase ": [
+            "Vault 81",
+            "Parsons State Insane Asylum",
+            "Gunners plaza",
+            "Milton General Hospital",
+            "Ticonderoga",
+            "Trinity Tower",
+            "Electrical Hobbyist's Club",
+            "Vault 114",
+            "Andrew station",
+            "Boston Public Library"
+        ],
+        "Willow vase ": [
+            "D.B. Technical High School",
+            "Goodneighbor",
+            "Boston Public Library",
+            "Kendall Hospital",
+            "Nahant Sherrif's Department",
+            "Vault 75",
+            "Andrew station",
+            "Hawthorne Estate",
+            "Boston mayoral shelter"
+        ]
+    },
+    "Circuitry": {
+        "Assaultron circuit board ": [],
+        "Condenser power module": [],
+        "Distress pulser": [
+            "National Guard training yard",
+            "Med-Tek Research",
+            "Revere satellite array"
+        ],
+        "Enhanced targeting card": [
+            "Decrepit factory",
+            "Robotics disposal ground",
+            "Weston water treatment plant"
+        ],
+        "Hot plate ": [
+            "Vault 111",
+            "Abernathy farm",
+            "Gorski cabin",
+            "The Prydwen"
+        ],
+        "Military-grade circuit board ": [
+            "Listening Post Bravo",
+            "Fort Hagen",
+            "USAF Satellite Station Olivia",
+            "Wattz Consumer Electronics",
+            "Robotics disposal ground",
+            "ArcJet Systems",
+            "RobCo Sales & Service Center"
+        ],
+        "Telephone ": []
+    },
+    "Cloth": {
+        "Anchorage veteran's flag": [],
+        "Baseball base ": [
+            "BADTFL regional office",
+            "Boston mayoral shelter",
+            "Suffolk County Charter School",
+            "Vault 75",
+            "Back Street Apparel",
+            "D.B. Technical High School"
+        ],
+        "Boston Bugle (item)": [
+            "West Roxbury station",
+            "College Square",
+            "Sandy Coves Convalescent Home",
+            "Boston Bugle building",
+            "Boston Public Library",
+            "Faneuil Hall"
+        ],
+        "Cigar ": [],
+        "Cigar box ": [
+            "Diamond City",
+            "Andrew station",
+            "Fort Hagen",
+            "Revere Beach station",
+            "Covenant",
+            "Fallon's department store",
+            "Parsons State Insane Asylum",
+            "The Prydwen",
+            "Trinity Tower",
+            "BADTFL regional office",
+            "College Square",
+            "Gunners plaza",
+            "HalluciGen, Inc.",
+            "Libertalia",
+            "Massachusetts State House",
+            "The Shamrock Taphouse",
+            "South Boston Police Department",
+            "USAF Satellite Station Olivia",
+            "West Roxbury station",
+            "Goodneighbor",
+            "Fort Hagen satellite array"
+        ],
+        "Cigarette ": [],
+        "Cigarette carton ": [
+            "Mass Fusion building",
+            "BADTFL regional office",
+            "Vault 95",
+            "Dunwich Borers",
+            "Fallon's department store",
+            "General Atomics factory",
+            "Forest Grove marsh",
+            "The Prydwen",
+            "Boston mayoral shelter",
+            "Charles View Amphitheater",
+            "Combat Zone",
+            "Covenant",
+            "Vault 81",
+            "Cabot House",
+            "The Institute"
+        ],
+        "Comfy pillow ": [
+            "Vault 75",
+            "Malden Middle School",
+            "Vault 81",
+            "Vault 114"
+        ],
+        "Cotton yarn ": [
+            "Fallon's department store",
+            "General Atomics Galleria",
+            "Ticonderoga",
+            "Sandy Coves Convalescent Home"
+        ],
+        "Dishrag ": [
+            "East Boston Preparatory School",
+            "National Guard training yard",
+            "Boston mayoral shelter",
+            "Boxing gym",
+            "Fort Strong",
+            "Gunners plaza",
+            "Vault 114",
+            "Andrew station",
+            "The Institute",
+            "Vault 75",
+            "Yangtze"
+        ],
+        "Duct tape ": [
+            "Sanctuary Hills",
+            "Med-Tek Research",
+            "General Atomics factory",
+            "Vault 95",
+            "HalluciGen, Inc.",
+            "The Shamrock Taphouse"
+        ],
+        "Feather duster ": [
+            "Gunners plaza",
+            "Med-Tek Research",
+            "Cabot House",
+            "Cambridge Polymer Labs",
+            "East Boston Preparatory School",
+            "Pickman Gallery",
+            "Beantown Brewery",
+            "Boston Public Library"
+        ],
+        "Jangles the Moon Monkey ": [
+            "Hubris Comics",
+            "Atom Cats garage",
+            "Med-Tek Research",
+            "Mystic Pines",
+            "Greenetech Genetics",
+            "General Atomics Galleria",
+            "Fort Hagen",
+            "Skylanes Flight 1981",
+            "Relay tower 1DL-109",
+            "Vault 95",
+            "Croup Manor",
+            "Fort Strong",
+            "The Prydwen",
+            "Harbormaster Hotel",
+            "Monsignor Plaza",
+            "Starlight Drive In",
+            "Warren Theater",
+            "Bedford Station",
+            "Diamond City",
+            "Mass Gravel & Sand",
+            "The Mechanist's lair",
+            "Museum of Witchcraft",
+            "Malden Center",
+            "Vault 81",
+            "Boston Public Library",
+            "Parsons State Insane Asylum",
+            "D.B. Technical High School",
+            "Andrew station"
+        ],
+        "Modified bowling ball schematic": [],
+        "Mop ": [
+            "Vault 81"
+        ],
+        "Oven mitt ": [
+            "Jamaica Plain",
+            "Monsignor Plaza",
+            "The Shamrock Taphouse",
+            "Shaw High School",
+            "Spectacle Island",
+            "Cabot House",
+            "Spectacle Island",
+            "Vault 81"
+        ],
+        "Pack of duct tape ": [
+            "ArcJet Systems",
+            "Back Street Apparel",
+            "Pickman Gallery",
+            "Hardware Town",
+            "The Institute"
+        ],
+        "Paintbrush ": [
+            "General Atomics Galleria",
+            "D.B. Technical High School",
+            "Easy City Downs",
+            "Federal ration stockpile",
+            "The Institute",
+            "Parsons State Insane Asylum",
+            "Vault 114",
+            "Park Street station",
+            "Vault 81",
+            "Abernathy farm",
+            "Pickman Gallery",
+            "The Prydwen",
+            "Saugus Ironworks"
+        ],
+        "Pre-War money ": [
+            "Bridgeway Trust",
+            "Valenti station",
+            "Kendall Hospital",
+            "Wattz Consumer Electronics",
+            "Vault 114",
+            "Commonwealth Bank",
+            "Lexington",
+            "Slocum's Joe Corporate HQ",
+            "Skylanes Flight 1981",
+            "Easy City Downs"
+        ],
+        "Pack of cigarettes ": [
+            "Andrew station",
+            "D.B. Technical High School",
+            "HalluciGen, Inc.",
+            "Saugus Ironworks",
+            "Vault 114",
+            "Vault 81",
+            "The Institute",
+            "Vault 81",
+            "Cabot House",
+            "Harbormaster Hotel",
+            "Vault 75",
+            "Vault 111",
+            "Vault 114"
+        ],
+        "Preserved cigarette pack ": [],
+        "Straw pillow ": [
+            "Corvega assembly plant",
+            "Sentinel site",
+            "Yangtze",
+            "Quincy ruins",
+            "Cambridge Police Station",
+            "Libertalia",
+            "Egret Tours Marina",
+            "Four Leaf Fishpacking plant",
+            "Longneck Lukowski's Cannery"
+        ],
+        "Teddy bear ": [
+            "Hangman's Alley",
+            "Back Street Apparel",
+            "Beantown Brewery",
+            "Boston mayoral shelter",
+            "Coast Guard pier",
+            "East Boston Preparatory School",
+            "Fort Strong",
+            "Suffolk County Charter School",
+            "Murkwater construction site",
+            "Fens Street sewer",
+            "Fraternal Post 115",
+            "Irish Pride Industries shipyard",
+            "Massachusetts State House",
+            "Med-Tek Research",
+            "Medford Memorial Hospital",
+            "Outpost Zimonja",
+            "Saugus Ironworks",
+            "The Shamrock Taphouse",
+            "Super Duper Mart",
+            "Lexington",
+            "Trinity Plaza",
+            "USAF Satellite Station Olivia",
+            "Vault 75",
+            "Vault 81",
+            "Warwick homestead",
+            "WRVR broadcast station",
+            "Monsignor Plaza"
+        ],
+        "Trifold American flag ": [
+            "Fort Hagen",
+            "Railroad HQ",
+            "Sanctuary Hills",
+            "Sandy Coves Convalescent Home",
+            "Parsons State Insane Asylum",
+            "ArcJet Systems",
+            "Prost Bar",
+            "Vault 81",
+            "Cabot House"
+        ]
+    },
+    "Concrete": {
+        "Bag of cement ": [
+            "Park Street Station",
+            "Vault 114",
+            "The Castle",
+            "Irish Pride Industries shipyard",
+            "Wilson Atomatoys factory",
+            "West Everett Estates",
+            "Coastal cottage",
+            "Suffolk County Charter School",
+            "General Atomics factory",
+            "Poseidon Energy",
+            "Somerville Place",
+            "Saugus Ironworks",
+            "HalluciGen, Inc."
+        ],
+        "Wasteland Workshop": []
+    },
+    "Copper": {
+        "Beaker stand ": [
+            "Cambridge Polymer Labs",
+            "Suffolk County Charter School",
+            "Greenetech Genetics",
+            "D.B. Technical High School",
+            "HalluciGen, Inc."
+        ],
+        "Blue table lamp ": [
+            "Covenant",
+            "Quincy ruins",
+            "Wattz Consumer Electronics",
+            "C.I.T. ruins",
+            "Prost Bar",
+            "Bridgeway Trust",
+            "Massachusetts State House",
+            "RobCo Sales & Service Center"
+        ],
+        "Bone cutter ": [
+            "Mass Bay Medical Center",
+            "Med-Tek Research",
+            "Milton General Hospital",
+            "Railroad HQ",
+            "Gunners plaza",
+            "Vault 81"
+        ],
+        "Broken lamp ": [
+            "Jamaica Plain",
+            "West Everett Estates",
+            "Faneuil Hall",
+            "Fort Hagen filling station",
+            "Gunners plaza",
+            "Hubris Comics",
+            "Kendall Hospital",
+            "Layton Towers",
+            "Rook family house",
+            "Sandy Coves Convalescent Home",
+            "USS Constitution",
+            "Fallon's department store",
+            "Fort Hagen satellite array"
+        ],
+        "Broken light bulb": [],
+        "Bunsen burner ": [
+            "Greenetech Genetics",
+            "Greater Mass Blood Clinic",
+            "HalluciGen, Inc.",
+            "Boston Public Library",
+            "The Mechanist's lair"
+        ],
+        "Condenser power module": [],
+        "Cooking pot ": [
+            "Greentop Nursery",
+            "Diamond City",
+            "Hub 360",
+            "Shaw High School",
+            "Suffolk County Charter School",
+            "Malden Center",
+            "Easy City Downs",
+            "The Slog",
+            "Vault 81",
+            "Yangtze"
+        ],
+        "Copper bar": [
+            "North End graveyard"
+        ],
+        "Fuse ": [
+            "Museum of Freedom",
+            "Concord",
+            "ArcJet Systems",
+            "BADTFL regional office",
+            "Science Center gift shop",
+            "RobCo Sales & Service Center"
+        ],
+        "Gilded grasshopper": [],
+        "High-powered magnet ": [
+            "Mass Bay Medical Center",
+            "Boston Airport",
+            "Milton General Hospital",
+            "Medford Memorial Hospital",
+            "Electrical Hobbyist's Club",
+            "Atom Cats garage",
+            "Vault 81",
+            "Bunker Hill",
+            "Drumlin Diner",
+            "The Institute",
+            "RobCo Sales & Service Center"
+        ],
+        "Hot plate ": [
+            "Vault 111",
+            "Abernathy farm",
+            "Gorski cabin",
+            "The Prydwen"
+        ],
+        "Light bulb ": [
+            "Vault 95",
+            "Corvega assembly plant",
+            "Vault 81",
+            "Poseidon Energy",
+            "Concord",
+            "Wattz Consumer Electronics",
+            "BADTFL regional office",
+            "Big John's Salvage",
+            "Boston mayoral shelter",
+            "Boston Public Library",
+            "Bunker Hill"
+        ],
+        "Magnifying glass ": [
+            "Greenetech Genetics",
+            "Cambridge Police Station"
+        ],
+        "Power relay coil ": [
+            "Yangtze",
+            "Rocky cave",
+            "The Institute",
+            "Mass Pike Interchange"
+        ],
+        "Pre-War lamp ": [
+            "The Institute",
+            "Cabot House"
+        ],
+        "Shadeless lamp ": [
+            "Wattz Consumer Electronics",
+            "Andrew station",
+            "Kendall Hospital",
+            "Big John's Salvage",
+            "Nakano residence",
+            "College Square",
+            "Fallon's department store",
+            "General Atomics factory",
+            "Boston mayoral shelter",
+            "Nahant Oceanological Society",
+            "Gunners plaza",
+            "Parsons State Insane Asylum",
+            "Andrew station"
+        ],
+        "Shadeless table lamp": [],
+        "Stew pot ": [
+            "Taffington boathouse",
+            "Ticker Tape Lounge",
+            "Vault 95",
+            "Andrew station"
+        ],
+        "Telephone ": [],
+        "Vacuum tube ": [
+            "Rocky cave",
+            "Fort Hagen",
+            "ArcJet Systems"
+        ],
+        "Yellow table lamp ": [
+            "Lexington apartments",
+            "Hawthorne Estate"
+        ]
+    },
+    "Cork": {
+        "Antique globe ": [
+            "Boston Public Library",
+            "National Guard training yard",
+            "Parsons State Insane Asylum",
+            "Suffolk County Charter School",
+            "Vault-Tec Regional HQ",
+            "Cabot House",
+            "USAF Satellite Station Olivia",
+            "Museum of Freedom",
+            "Walden Pond",
+            "Medford Memorial Hospital"
+        ],
+        "Baseball ": [
+            "Boston mayoral shelter",
+            "D.B. Technical High School",
+            "Hubris Comics",
+            "WRVR broadcast station",
+            "Malden Center",
+            "BADTFL regional office",
+            "The Shamrock Taphouse",
+            "Vault 75",
+            "Fort Strong"
+        ],
+        "Classroom globe": [],
+        "Clean globe": [],
+        "Collectible baseball ": [
+            "Suffolk County Charter School",
+            "East Boston Preparatory School",
+            "Kendall Hospital",
+            "Boston Public Library",
+            "Natick Police Department",
+            "Quincy police station",
+            "Sandy Coves Convalescent Home",
+            "The Institute",
+            "Vault 81"
+        ],
+        "Crystal liquor decanter ": [
+            "The Gwinnett Restaurant",
+            "HalluciGen, Inc.",
+            "The Prydwen",
+            "Vault-Tec Regional HQ",
+            "Cabot House",
+            "Fraternal Post 115",
+            "Parsons State Insane Asylum",
+            "Holy Mission Congregation"
+        ],
+        "Globe ": [
+            "Sanctuary Hills",
+            "Vault 75",
+            "Spectacle Island",
+            "The Institute",
+            "ArcJet Systems",
+            "Prost Bar"
+        ],
+        "Youth League baseball": []
+    },
+    "Crystal": {
+        "Camera ": [],
+        "Crystal liquor decanter ": [
+            "The Gwinnett Restaurant",
+            "HalluciGen, Inc.",
+            "The Prydwen",
+            "Vault-Tec Regional HQ",
+            "Cabot House",
+            "Fraternal Post 115",
+            "Parsons State Insane Asylum",
+            "Holy Mission Congregation"
+        ],
+        "Fallout 4 traps": [],
+        "Magnifying glass ": [
+            "Greenetech Genetics",
+            "Cambridge Police Station"
+        ],
+        "Microscope ": [
+            "Medford Memorial Hospital",
+            "Vault 81",
+            "Cambridge Polymer Labs",
+            "Greenetech Genetics",
+            "Med-Tek Research",
+            "Nahant Oceanological Society",
+            "Vault 95",
+            "D.B. Technical High School",
+            "Mass Bay Medical Center",
+            "Parsons State Insane Asylum"
+        ],
+        "ProSnap camera": [
+            "HalluciGen, Inc.",
+            "Vault 75",
+            "Fort Strong",
+            "West Roxbury station",
+            "South Boston High School",
+            "Back Street Apparel",
+            "Federal Surveillance Center K-21B",
+            "Pickman Gallery",
+            "Boston mayoral shelter"
+        ],
+        "Undamaged camera": []
+    },
+    "Fertilizer": {
+        "Bag of fertilizer ": [
+            "Graygarden",
+            "Greentop Nursery",
+            "Vault 81",
+            "Abernathy farm",
+            "Chestnut Hillock Reservoir",
+            "East Boston police station",
+            "RobCo Sales & Service Center",
+            "Sandy Coves Convalescent Home",
+            "East Boston Preparatory School",
+            "Fraternal Post 115"
+        ]
+    },
+    "Fiber optics": {
+        "Applicator": [
+            "The Institute",
+            "The Institute"
+        ],
+        "Biometric scanner ": [
+            "Decrepit factory",
+            "The Institute",
+            "Mass Bay Medical Center",
+            "Medford Memorial Hospital",
+            "Med-Tek Research",
+            "Milton General Hospital",
+            "Parsons State Insane Asylum",
+            "Sandy Coves Convalescent Home",
+            "Fort Hagen satellite array",
+            "The Mechanist's lair"
+        ],
+        "Ear examiner": [
+            "The Institute",
+            "Fort Hagen"
+        ],
+        "Flight data recorder ": [
+            "Skylanes Flight 1665",
+            "Skylanes Flight 1981"
+        ],
+        "High-powered microscope ": [],
+        "Microscope ": [
+            "Medford Memorial Hospital",
+            "Vault 81",
+            "Cambridge Polymer Labs",
+            "Greenetech Genetics",
+            "Med-Tek Research",
+            "Nahant Oceanological Society",
+            "Vault 95",
+            "D.B. Technical High School",
+            "Mass Bay Medical Center",
+            "Parsons State Insane Asylum"
+        ],
+        "Fallout 4 traps": [],
+        "Prototype biometric scanner": []
+    },
+    "Fiberglass": {
+        "Abraxo cleaner ": [
+            "Fort Hagen",
+            "Greenetech Genetics",
+            "Vault 95",
+            "Vault 81",
+            "Vault 114",
+            "Poseidon Energy",
+            "Parsons State Insane Asylum",
+            "West Roxbury station",
+            "Faneuil Hall",
+            "Sandy Coves Convalescent Home",
+            "Cambridge campus diner",
+            "Quincy ruins",
+            "Suffolk County Charter School",
+            "Super Duper Mart",
+            "Boston mayoral shelter"
+        ],
+        "Abraxo cleaner industrial grade": [],
+        "Aluminum canister ": [
+            "HalluciGen, Inc.",
+            "Med-Tek Research",
+            "Cambridge Polymer Labs",
+            "Wilson Atomatoys corporate HQ",
+            "General Atomics factory",
+            "General Atomics Galleria",
+            "The Prydwen",
+            "Suffolk County Charter School",
+            "Vault 81",
+            "Vault 95",
+            "Rocky cave",
+            "Lake Quannapowitt",
+            "The Mechanist's lair"
+        ],
+        "Cigar box ": [
+            "Diamond City",
+            "Andrew station",
+            "Fort Hagen",
+            "Revere Beach station",
+            "Covenant",
+            "Fallon's department store",
+            "Parsons State Insane Asylum",
+            "The Prydwen",
+            "Trinity Tower",
+            "BADTFL regional office",
+            "College Square",
+            "Gunners plaza",
+            "HalluciGen, Inc.",
+            "Libertalia",
+            "Massachusetts State House",
+            "The Shamrock Taphouse",
+            "South Boston Police Department",
+            "USAF Satellite Station Olivia",
+            "West Roxbury station",
+            "Goodneighbor",
+            "Fort Hagen satellite array"
+        ],
+        "Jangles the Moon Monkey ": [
+            "Hubris Comics",
+            "Atom Cats garage",
+            "Med-Tek Research",
+            "Mystic Pines",
+            "Greenetech Genetics",
+            "General Atomics Galleria",
+            "Fort Hagen",
+            "Skylanes Flight 1981",
+            "Relay tower 1DL-109",
+            "Vault 95",
+            "Croup Manor",
+            "Fort Strong",
+            "The Prydwen",
+            "Harbormaster Hotel",
+            "Monsignor Plaza",
+            "Starlight Drive In",
+            "Warren Theater",
+            "Bedford Station",
+            "Diamond City",
+            "Mass Gravel & Sand",
+            "The Mechanist's lair",
+            "Museum of Witchcraft",
+            "Malden Center",
+            "Vault 81",
+            "Boston Public Library",
+            "Parsons State Insane Asylum",
+            "D.B. Technical High School",
+            "Andrew station"
+        ],
+        "Rat poison ": [
+            "East Boston Preparatory School",
+            "Greenetech Genetics",
+            "Cambridge Police Station",
+            "Federal surveillance center K-21B",
+            "Natick Banks",
+            "Vault 75",
+            "Dartmouth Professional Building",
+            "Hawthorne Estate",
+            "Fort Hagen satellite array",
+            "The Mechanist's lair"
+        ],
+        "Swan boat fragments": [],
+        "Telephone ": [],
+        "Undamaged Abraxo cleaner": []
+    },
+    "Gears": {
+        "Adjustable wrench ": [],
+        "Antique pocket watch": [],
+        "Camera ": [],
+        "Desk fan ": [
+            "Vault 81",
+            "Sunshine Tidings co-op",
+            "Sandy Coves Convalescent Home",
+            "Mass Bay Medical Center"
+        ],
+        "Fishing rod ": [
+            "Sanctuary Hills",
+            "Weston water treatment plant",
+            "Parsons Creamery",
+            "The Castle",
+            "Walden Pond"
+        ],
+        "Giddyup Buttercup ": [
+            "Wilson Atomatoys corporate HQ",
+            "Wilson Atomatoys factory",
+            "Vault 81",
+            "Diamond City",
+            "Warwick homestead",
+            "Harbormaster Hotel",
+            "General Atomics factory"
+        ],
+        "Giddyup Buttercup parts ": [
+            "Wilson Atomatoys factory",
+            "Wilson Atomatoys corporate HQ",
+            "Atom Cats garage",
+            "Red Rocket truck stop"
+        ],
+        "Gold watch ": [
+            "Charles View Amphitheater",
+            "Gunners plaza",
+            "General Atomics Galleria",
+            "Cabot House",
+            "Corvega assembly plant",
+            "Andrew station",
+            "Holy Mission Congregation",
+            "ArcJet Systems",
+            "Wilson Atomatoys corporate HQ"
+        ],
+        "Microscope ": [
+            "Medford Memorial Hospital",
+            "Vault 81",
+            "Cambridge Polymer Labs",
+            "Greenetech Genetics",
+            "Med-Tek Research",
+            "Nahant Oceanological Society",
+            "Vault 95",
+            "D.B. Technical High School",
+            "Mass Bay Medical Center",
+            "Parsons State Insane Asylum"
+        ],
+        "ProSnap camera": [
+            "HalluciGen, Inc.",
+            "Vault 75",
+            "Fort Strong",
+            "West Roxbury station",
+            "South Boston High School",
+            "Back Street Apparel",
+            "Federal Surveillance Center K-21B",
+            "Pickman Gallery",
+            "Boston mayoral shelter"
+        ],
+        "Silver pocket watch ": [
+            "Croup Manor",
+            "Big John's Salvage",
+            "Boston mayoral shelter"
+        ],
+        "Typewriter ": [
+            "Natick Police Department",
+            "Cambridge Police Station",
+            "South Boston Police Department",
+            "ArcJet Systems",
+            "Boston Bugle building",
+            "Covenant",
+            "Sanctuary Hills"
+        ],
+        "Undamaged camera": []
+    },
+    "Glass": {
+        "Alarm clock ": [
+            "Sandy Coves Convalescent Home",
+            "HalluciGen, Inc.",
+            "Mass Fusion building",
+            "Vault 81",
+            "Vault 95"
+        ],
+        "Baby bottle ": [],
+        "Beaker ": [],
+        "Beer bottle ": [
+            "Kendall Hospital",
+            "Easy City Downs",
+            "The Shamrock Taphouse",
+            "Thicket Excavations",
+            "Vault 95",
+            "Layton Towers",
+            "Prost Bar",
+            "Combat Zone"
+        ],
+        "Blue table lamp ": [
+            "Covenant",
+            "Quincy ruins",
+            "Wattz Consumer Electronics",
+            "C.I.T. ruins",
+            "Prost Bar",
+            "Bridgeway Trust",
+            "Massachusetts State House",
+            "RobCo Sales & Service Center"
+        ],
+        "Broken lamp ": [
+            "Jamaica Plain",
+            "West Everett Estates",
+            "Faneuil Hall",
+            "Fort Hagen filling station",
+            "Gunners plaza",
+            "Hubris Comics",
+            "Kendall Hospital",
+            "Layton Towers",
+            "Rook family house",
+            "Sandy Coves Convalescent Home",
+            "USS Constitution",
+            "Fallon's department store",
+            "Fort Hagen satellite array"
+        ],
+        "Clean drinking glass": [],
+        "Desk lamp": [],
+        "Empty milk bottle ": [
+            "Covenant",
+            "Breakheart Banks",
+            "Cambridge Police Station",
+            "Fens Street sewer",
+            "Lexington apartments",
+            "Corvega assembly plant",
+            "Saugus Ironworks",
+            "Shaw High School"
+        ],
+        "Flask ": [
+            "Cambridge Polymer Labs",
+            "Greenetech Genetics",
+            "Medford Memorial Hospital",
+            "Med-Tek Research",
+            "The Institute",
+            "HalluciGen, Inc.",
+            "The Prydwen"
+        ],
+        "Fuse ": [
+            "Museum of Freedom",
+            "Concord",
+            "ArcJet Systems",
+            "BADTFL regional office",
+            "Science Center gift shop",
+            "RobCo Sales & Service Center"
+        ],
+        "Glass bowl ": [
+            "Suffolk County Charter School",
+            "Drumlin Diner",
+            "Starlight Drive In",
+            "Croup Manor"
+        ],
+        "Glass pitcher ": [
+            "Vault 81",
+            "Cabot House",
+            "Parsons State Insane Asylum",
+            "Vault 114",
+            "Vault 95",
+            "Prost Bar",
+            "The Shamrock Taphouse"
+        ],
+        "Gwinnett ale bottle": [
+            "Prost Bar",
+            "Gwinnett Brewery",
+            "Faneuil Hall"
+        ],
+        "Gwinnett lager bottle": [
+            "Beantown Brewery",
+            "Prost bar",
+            "Super Duper Mart"
+        ],
+        "Lantern ": [
+            "Dunwich Borers",
+            "Nahant Oceanological Society",
+            "Fort Hagen",
+            "Fallon's department store"
+        ],
+        "Light bulb ": [
+            "Vault 95",
+            "Corvega assembly plant",
+            "Vault 81",
+            "Poseidon Energy",
+            "Concord",
+            "Wattz Consumer Electronics",
+            "BADTFL regional office",
+            "Big John's Salvage",
+            "Boston mayoral shelter",
+            "Boston Public Library",
+            "Bunker Hill"
+        ],
+        "Liquor bottle ": [
+            "Andrew station",
+            "Massachusetts State House",
+            "Rook family house",
+            "Gunners plaza",
+            "The Prydwen",
+            "East Boston Preparatory School",
+            "Boston Public Library"
+        ],
+        "Magnifying glass ": [
+            "Greenetech Genetics",
+            "Cambridge Police Station"
+        ],
+        "Microscope ": [
+            "Medford Memorial Hospital",
+            "Vault 81",
+            "Cambridge Polymer Labs",
+            "Greenetech Genetics",
+            "Med-Tek Research",
+            "Nahant Oceanological Society",
+            "Vault 95",
+            "D.B. Technical High School",
+            "Mass Bay Medical Center",
+            "Parsons State Insane Asylum"
+        ],
+        "Nuka-Cola bottle ": [
+            "Mass Fusion building",
+            "Easy City Downs",
+            "Jamaica Plain",
+            "Four Leaf Fishpacking plant",
+            "HalluciGen, Inc.",
+            "Finch farm",
+            "Drumlin Diner",
+            "Greenetech Genetics",
+            "Weston water treatment plant",
+            "East Boston Preparatory School",
+            "West Roxbury station",
+            "ArcJet Systems",
+            "Boston mayoral shelter",
+            "Chestnut Hillock Reservoir",
+            "Cambridge Polymer Labs",
+            "Fort Hagen",
+            "General Atomics Galleria"
+        ],
+        "Research test tube ": [
+            "Nahant Sherrif's Department",
+            "Parsons State Insane Asylum",
+            "Rocky cave",
+            "ArcJet Systems"
+        ],
+        "Shadeless lamp ": [
+            "Wattz Consumer Electronics",
+            "Andrew station",
+            "Kendall Hospital",
+            "Big John's Salvage",
+            "Nakano residence",
+            "College Square",
+            "Fallon's department store",
+            "General Atomics factory",
+            "Boston mayoral shelter",
+            "Nahant Oceanological Society",
+            "Gunners plaza",
+            "Parsons State Insane Asylum",
+            "Andrew station"
+        ],
+        "Shadeless table lamp": [],
+        "Shot glass ": [
+            "Jamaica Plain",
+            "Cabot House",
+            "Parkview Apartments",
+            "Fallon's department store"
+        ],
+        "Vacuum tube ": [
+            "Rocky cave",
+            "Fort Hagen",
+            "ArcJet Systems"
+        ],
+        "Vodka bottle ": [
+            "Vault 95",
+            "Andrew station",
+            "Factory",
+            "Rook family house",
+            "The Prydwen",
+            "Vault 81",
+            "Vault 95"
+        ],
+        "Yellow table lamp ": [
+            "Lexington apartments",
+            "Hawthorne Estate"
+        ]
+    },
+    "Gold": {
+        "Gilded grasshopper": [],
+        "Gold bar ": [
+            "Bridgeway Trust",
+            "North End graveyard"
+        ],
+        "Gold plated flip lighter": [],
+        "Gold watch ": [
+            "Charles View Amphitheater",
+            "Gunners plaza",
+            "General Atomics Galleria",
+            "Cabot House",
+            "Corvega assembly plant",
+            "Andrew station",
+            "Holy Mission Congregation",
+            "ArcJet Systems",
+            "Wilson Atomatoys corporate HQ"
+        ]
+    },
+    "Lead": {
+        "5lb weight": [],
+        "10lb weight": [],
+        "Dumbbell ": [
+            "Boxing gym",
+            "Atom Cats garage",
+            "Federal supply cache 84NE",
+            "Wreck of the FMS Northern Star",
+            "Mass Fusion building",
+            "Andrew station"
+        ],
+        "25lb weight": [],
+        "Barbell ": [
+            "Federal supply cache 84NE",
+            "Boxing gym",
+            "Atom Cats garage",
+            "Wreck of the FMS Northern Star"
+        ],
+        "80lb curlbar ": [
+            "Boxing gym",
+            "Atom Cats garage",
+            "Federal supply cache 84NE"
+        ],
+        "Makeshift battery ": [
+            "Sanctuary Hills",
+            "Thicket Excavations",
+            "Egret Tours Marina",
+            "Andrew station",
+            "Hardware Town",
+            "Parkview Apartments",
+            "Pickman Gallery",
+            "East Boston Preparatory School",
+            "Mass Pike Interchange",
+            "Robotics disposal ground",
+            "Oberland station",
+            "Croup Manor",
+            "Federal ration stockpile",
+            "Cambridge campus diner"
+        ],
+        "Pencil ": [
+            "Railroad HQ",
+            "Cambridge Polymer Labs"
+        ],
+        "Reporter's pencil": [
+            "The Institute"
+        ]
+    },
+    "Leather": {
+        "Assault gas mask ": [],
+        "Athletic outfit": [],
+        "Baseball ": [
+            "Boston mayoral shelter",
+            "D.B. Technical High School",
+            "Hubris Comics",
+            "WRVR broadcast station",
+            "Malden Center",
+            "BADTFL regional office",
+            "The Shamrock Taphouse",
+            "Vault 75",
+            "Fort Strong"
+        ],
+        "Baseball glove ": [
+            "Andrew station",
+            "Boston Bugle building",
+            "Boston mayoral shelter",
+            "Cutler Bend",
+            "D.B. Technical High School",
+            "Irish Pride Industries shipyard",
+            "Natick Banks",
+            "Salem",
+            "The Shamrock Taphouse",
+            "Shaw High School",
+            "Suffolk County Charter School",
+            "Vault 75"
+        ],
+        "Brahmin hide ": [],
+        "Deathclaw hand ": [],
+        "Deathclaw hide ": [],
+        "Hide bundle": [],
+        "Mole rat hide ": [],
+        "Raider leathers ": [],
+        "Radstag hide ": [],
+        "Road leathers ": [],
+        "Teddy bear ": [
+            "Hangman's Alley",
+            "Back Street Apparel",
+            "Beantown Brewery",
+            "Boston mayoral shelter",
+            "Coast Guard pier",
+            "East Boston Preparatory School",
+            "Fort Strong",
+            "Suffolk County Charter School",
+            "Murkwater construction site",
+            "Fens Street sewer",
+            "Fraternal Post 115",
+            "Irish Pride Industries shipyard",
+            "Massachusetts State House",
+            "Med-Tek Research",
+            "Medford Memorial Hospital",
+            "Outpost Zimonja",
+            "Saugus Ironworks",
+            "The Shamrock Taphouse",
+            "Super Duper Mart",
+            "Lexington",
+            "Trinity Plaza",
+            "USAF Satellite Station Olivia",
+            "Vault 75",
+            "Vault 81",
+            "Warwick homestead",
+            "WRVR broadcast station",
+            "Monsignor Plaza"
+        ]
+    },
+    "Nuclear material": {
+        "Alarm clock ": [
+            "Sandy Coves Convalescent Home",
+            "HalluciGen, Inc.",
+            "Mass Fusion building",
+            "Vault 81",
+            "Vault 95"
+        ],
+        "Biometric scanner": [
+            "Decrepit factory",
+            "The Institute",
+            "Mass Bay Medical Center",
+            "Medford Memorial Hospital",
+            "Med-Tek Research",
+            "Milton General Hospital",
+            "Parsons State Insane Asylum",
+            "Sandy Coves Convalescent Home",
+            "Fort Hagen satellite array",
+            "The Mechanist's lair"
+        ],
+        "Blast Radius board game ": [
+            "East Boston Preparatory School",
+            "Irish Pride Industries shipyard",
+            "Jamaica Plain",
+            "Sandy Coves Convalescent Home",
+            "Suffolk County Charter School",
+            "Back Street Apparel",
+            "Boston mayoral shelter",
+            "College Square",
+            "Dunwich Borers",
+            "Easy City Downs",
+            "Gunners plaza",
+            "Goodneighbor",
+            "Hardware Town",
+            "Hawthorne Estate",
+            "The Institute",
+            "Medford Memorial Hospital",
+            "Med-Tek Research",
+            "Parsons Creamery",
+            "Parsons State Insane Asylum",
+            "Prost Bar",
+            "Science Center gift shop"
+        ],
+        "Distress pulser": [
+            "National Guard training yard",
+            "Med-Tek Research",
+            "Revere satellite array"
+        ],
+        "High-powered magnet": [
+            "Mass Bay Medical Center",
+            "Boston Airport",
+            "Milton General Hospital",
+            "Medford Memorial Hospital",
+            "Electrical Hobbyist's Club",
+            "Atom Cats garage",
+            "Vault 81",
+            "Bunker Hill",
+            "Drumlin Diner",
+            "The Institute",
+            "RobCo Sales & Service Center"
+        ],
+        "Ichor sac": [],
+        "Inactive distress pulser": [
+            "Cambridge Police Station",
+            "Recon bunker Theta"
+        ],
+        "Mini nuke beryllium cap ": [
+            "Gorski cabin"
+        ],
+        "Mini nuke detonator shell ": [
+            "Gorski cabin"
+        ],
+        "Mini nuke hemisphere core ": [
+            "Gorski cabin"
+        ],
+        "Prototype biometric scanner": [],
+        "Radioactive gland ": [],
+        "Radscorpion stinger ": [],
+        "Recorder": [
+            "The Institute"
+        ],
+        "Wakemaster alarm clock ": [
+            "Sandy Coves Convalescent Home",
+            "Cabot House",
+            "The Institute",
+            "ArcJet Systems",
+            "Natick Banks",
+            "Parsons State Insane Asylum",
+            "Super Duper Mart",
+            "Pickman Gallery",
+            "RobCo Sales & Service Center"
+        ]
+    },
+    "Oil": {
+        "Aluminum canister": [
+            "HalluciGen, Inc.",
+            "Med-Tek Research",
+            "Cambridge Polymer Labs",
+            "Wilson Atomatoys corporate HQ",
+            "General Atomics factory",
+            "General Atomics Galleria",
+            "The Prydwen",
+            "Suffolk County Charter School",
+            "Vault 81",
+            "Vault 95",
+            "Rocky cave",
+            "Lake Quannapowitt",
+            "The Mechanist's lair"
+        ],
+        "Aluminum oil can": [
+            "Ticonderoga",
+            "Vault 81"
+        ],
+        "Blowtorch ": [
+            "Boston Airport",
+            "Saugus Ironworks",
+            "USS Constitution",
+            "Vault 114",
+            "HalluciGen, Inc.",
+            "Mahkra Fishpacking",
+            "Malden Center",
+            "The Prydwen",
+            "Weston water treatment plant",
+            "The Mechanist's lair",
+            "Fort Hagen satellite array"
+        ],
+        "Fumigus blowtorch ": [
+            "Boston mayoral shelter",
+            "Gunners plaza",
+            "The Institute",
+            "Medical Center metro",
+            "Poseidon Energy",
+            "Roadside Pines Motel",
+            "Saugus Ironworks"
+        ],
+        "Blue paint ": [
+            "Hardware Town",
+            "The Institute",
+            "BADTFL regional office",
+            "Nahant Chapel",
+            "Croup Manor",
+            "Vault 95",
+            "Lake Cochituate",
+            "Somerville Place"
+        ],
+        "Condensed fog": [],
+        "Cooking oil ": [
+            "Jamaica Plain",
+            "Vault 81",
+            "Layton Towers",
+            "Shaw High School",
+            "Salem",
+            "Ticonderoga",
+            "Yangtze",
+            "Fort Hagen",
+            "Sandy Coves Convalescent Home",
+            "Reeb Marina",
+            "Easy City Downs",
+            "Boston mayoral shelter"
+        ],
+        "Cutting fluid ": [],
+        "Flip lighter ": [],
+        "Gas canister ": [
+            "Park Street station",
+            "Coast Guard pier",
+            "Big John's Salvage",
+            "Corvega assembly plant",
+            "South Boston Police Department",
+            "Diamond City",
+            "The Prydwen"
+        ],
+        "Industrial size shortening ": [
+            "Fort Strong",
+            "Cambridge campus diner",
+            "Boston mayoral shelter",
+            "Harbormaster Hotel",
+            "Parkview Apartments",
+            "Diamond City",
+            "Monsignor Plaza",
+            "Bunker Hill"
+        ],
+        "Lantern ": [
+            "Dunwich Borers",
+            "Nahant Oceanological Society",
+            "Fort Hagen",
+            "Fallon's department store"
+        ],
+        "Mr. Handy fuel ": [
+            "Sanctuary Hills",
+            "Super Duper Mart",
+            "Monsignor Plaza",
+            "Back Street Apparel",
+            "Parkview Apartments",
+            "Graygarden",
+            "Boston mayoral shelter",
+            "Rocky cave",
+            "The Prydwen",
+            "Old Gullet sinkhole",
+            "RobCo Sales & Service Center"
+        ],
+        "Oil can ": [
+            "Old Gullet sinkhole",
+            "Bunker Hill",
+            "Covenant"
+        ],
+        "Oil canister ": [],
+        "Paint can ": [
+            "Hardware Town",
+            "Pickman Gallery",
+            "Federal ration stockpile",
+            "Vault 81",
+            "Parsons State Insane Asylum",
+            "Mass Pike Tunnel east",
+            "Somerville Place"
+        ],
+        "Red paint ": [],
+        "Soap ": [
+            "ArcJet Systems",
+            "Fort Hagen",
+            "Sentinel site",
+            "Old Gullet sinkhole",
+            "Fort Strong",
+            "Goodneighbor"
+        ],
+        "Used oil can ": [
+            "Sanctuary Hills",
+            "Vault 111"
+        ],
+        "Yellow paint ": [
+            "Hardware Town",
+            "Federal ration stockpile",
+            "The Institute",
+            "Warwick Homestead",
+            "Taffington boathouse",
+            "Vault 95",
+            "Parsons State Insane Asylum",
+            "Poseidon Energy",
+            "Vault 81",
+            "Lake Cochituate",
+            "Somerville Place",
+            "Collegiate administration building",
+            "Abernathy farm",
+            "Sandy Coves Convalescent Home",
+            "Vault 114"
+        ]
+    },
+    "Plastic": {
+        "Anti freeze bottle ": [
+            "Wilson Atomatoys factory",
+            "Quincy ruins",
+            "Quincy Quarries",
+            "Jamaica Plain",
+            "Saugus Ironworks",
+            "College Square",
+            "Westing Estate",
+            "Mass Fusion containment shed",
+            "Graygarden",
+            "Hardware Town",
+            "Diamond City",
+            "General Atomics Galleria",
+            "Vault 114",
+            "Charles View Amphitheater",
+            "Old Gullet sinkhole",
+            "Suffolk County Charter School",
+            "The Prydwen",
+            "Libertalia",
+            "Med-Tek Research",
+            "Yangtze",
+            "Medical Center metro",
+            "ArcJet Systems",
+            "Greenetech Genetics",
+            "USS Constitution",
+            "Greater Mass Blood Clinic",
+            "Boston Public Library",
+            "Malden Center",
+            "Egret Tours Marina",
+            "Fort Hagen",
+            "Vault 95",
+            "HalluciGen, Inc.",
+            "Nahant Oceanological Society"
+        ],
+        "Antique globe ": [
+            "Boston Public Library",
+            "National Guard training yard",
+            "Parsons State Insane Asylum",
+            "Suffolk County Charter School",
+            "Vault-Tec Regional HQ",
+            "Cabot House",
+            "USAF Satellite Station Olivia",
+            "Museum of Freedom",
+            "Walden Pond",
+            "Medford Memorial Hospital"
+        ],
+        "Baby rattle ": [
+            "Salem",
+            "Fallon's department store",
+            "Fens Street sewer",
+            "Mass Bay Medical Center",
+            "Fraternal Post 115",
+            "General Atomics factory",
+            "Harbormaster Hotel",
+            "Boston Public Library",
+            "Prost Bar",
+            "Boston mayoral shelter"
+        ],
+        "Baseball base ": [
+            "BADTFL regional office",
+            "Boston mayoral shelter",
+            "Suffolk County Charter School",
+            "Vault 75",
+            "Back Street Apparel",
+            "D.B. Technical High School"
+        ],
+        "Bowling ball ": [
+            "Beantown Brewery",
+            "Irish Pride Industries shipyard"
+        ],
+        "Bowling pin ": [
+            "West Everett Estates",
+            "Mass Pike Tunnel east",
+            "Fens Street sewer",
+            "Irish Pride Industries shipyard",
+            "Hubris Comics",
+            "Fort Hagen satellite array"
+        ],
+        "Broom ": [
+            "Fort Hagen",
+            "Poseidon Energy",
+            "Corvega assembly plant",
+            "Vault 114",
+            "Greenetech Genetics",
+            "Mass Fusion building",
+            "Andrew station",
+            "Gunners plaza",
+            "East Boston Preparatory School",
+            "Saugus Ironworks",
+            "Parsons State Insane Asylum",
+            "Vault 81",
+            "USAF Satellite Station Olivia"
+        ],
+        "Cafeteria tray ": [
+            "Suffolk County Charter School",
+            "Vault 81",
+            "The Institute",
+            "Sandy Coves Convalescent Home",
+            "Cambridge Police Station",
+            "Ticonderoga",
+            "National Guard training yard",
+            "Vault 114",
+            "College Square",
+            "Atom Cats garage",
+            "Mass Bay Medical Center",
+            "Milton General Hospital",
+            "Faneuil Hall"
+        ],
+        "Cat bowl ": [
+            "Walden Pond",
+            "Concord",
+            "Vault 95",
+            "Diamond City"
+        ],
+        "Charge card ": [
+            "Fort Strong",
+            "Bunker Hill",
+            "Science Center gift shop"
+        ],
+        "Cigarette carton ": [
+            "Mass Fusion building",
+            "BADTFL regional office",
+            "Vault 95",
+            "Dunwich Borers",
+            "Fallon's department store",
+            "General Atomics factory",
+            "Forest Grove marsh",
+            "The Prydwen",
+            "Boston mayoral shelter",
+            "Charles View Amphitheater",
+            "Combat Zone",
+            "Covenant",
+            "Vault 81",
+            "Cabot House",
+            "The Institute"
+        ],
+        "Clothing iron ": [
+            "Cambridge Polymer Labs",
+            "East Boston Preparatory School",
+            "Jamaica Plain",
+            "Layton Towers",
+            "Old Gullet sinkhole",
+            "Quincy ruins",
+            "Railroad HQ",
+            "Back Street Apparel"
+        ],
+        "Coffee pot ": [],
+        "Cooking oil ": [
+            "Jamaica Plain",
+            "Vault 81",
+            "Layton Towers",
+            "Shaw High School",
+            "Salem",
+            "Ticonderoga",
+            "Yangtze",
+            "Fort Hagen",
+            "Sandy Coves Convalescent Home",
+            "Reeb Marina",
+            "Easy City Downs",
+            "Boston mayoral shelter"
+        ],
+        "Coolant ": [
+            "Red Rocket truck stop"
+        ],
+        "Dog bowl ": [],
+        "Empty coolant ": [
+            "Hardware Town",
+            "Dartmouth Professional Building"
+        ],
+        "Enhanced targeting card": [
+            "Decrepit factory",
+            "Robotics disposal ground",
+            "Weston water treatment plant"
+        ],
+        "Fancy hairbrush ": [
+            "Vault 81",
+            "Vault 75",
+            "Boston Public Library",
+            "Milton General Hospital",
+            "West Roxbury station",
+            "Andrew station"
+        ],
+        "Globe ": [
+            "Sanctuary Hills",
+            "Vault 75",
+            "Spectacle Island",
+            "The Institute",
+            "ArcJet Systems",
+            "Prost Bar"
+        ],
+        "Hairbrush ": [
+            "HalluciGen, Inc.",
+            "Vault 81",
+            "Boston Public Library",
+            "Jamaica Plain",
+            "Med-Tek Research",
+            "Mass Fusion building",
+            "Boston mayoral shelter",
+            "Faneuil Hall",
+            "Sentinel site",
+            "The Shamrock Taphouse",
+            "Weston water treatment plant"
+        ],
+        "Institute pistol": [],
+        "Jangles the Moon Monkey ": [
+            "Hubris Comics",
+            "Atom Cats garage",
+            "Med-Tek Research",
+            "Mystic Pines",
+            "Greenetech Genetics",
+            "General Atomics Galleria",
+            "Fort Hagen",
+            "Skylanes Flight 1981",
+            "Relay tower 1DL-109",
+            "Vault 95",
+            "Croup Manor",
+            "Fort Strong",
+            "The Prydwen",
+            "Harbormaster Hotel",
+            "Monsignor Plaza",
+            "Starlight Drive In",
+            "Warren Theater",
+            "Bedford Station",
+            "Diamond City",
+            "Mass Gravel & Sand",
+            "The Mechanist's lair",
+            "Museum of Witchcraft",
+            "Malden Center",
+            "Vault 81",
+            "Boston Public Library",
+            "Parsons State Insane Asylum",
+            "D.B. Technical High School",
+            "Andrew station"
+        ],
+        "Luxobrew coffee pot ": [
+            "Corvega assembly plant",
+            "West Everett Estates",
+            "Skylanes Flight 1981",
+            "Parsons State Insane Asylum",
+            "Greenetech Genetics",
+            "Lexington",
+            "Beantown Brewery"
+        ],
+        "Pack of cigarettes ": [
+            "Andrew station",
+            "D.B. Technical High School",
+            "HalluciGen, Inc.",
+            "Saugus Ironworks",
+            "Vault 114",
+            "Vault 81",
+            "The Institute",
+            "Vault 81",
+            "Cabot House",
+            "Harbormaster Hotel",
+            "Vault 75",
+            "Vault 111",
+            "Vault 114"
+        ],
+        "Pen ": [
+            "HalluciGen, Inc.",
+            "Cambridge Polymer Labs",
+            "Med-Tek Research",
+            "Vault 75",
+            "Mass Fusion building",
+            "Vault-Tec Regional HQ"
+        ],
+        "Pepper mill ": [
+            "Monsignor Plaza",
+            "Electrical Hobbyist's Club",
+            "Railroad HQ",
+            "Wicked Shipping Fleet Lockup",
+            "USS Constitution"
+        ],
+        "Plastic bowl (Far Harbor)": [],
+        "Plastic knife ": [],
+        "Plastic plate ": [],
+        "Plastic pumpkin ": [
+            "Cambridge Polymer Labs",
+            "Corvega assembly plant",
+            "Lake Cochituate",
+            "Poseidon reservoir",
+            "Salem",
+            "Sanctuary Hills",
+            "Vault-Tec Regional HQ"
+        ],
+        "Plastic skull": [],
+        "Plastic spoon ": [],
+        "Reporter's pen": [
+            "The Institute"
+        ],
+        "Salt shaker ": [
+            "Drumlin Diner",
+            "Salem",
+            "Fort Strong",
+            "Sanctuary Hills",
+            "USS Constitution",
+            "Lexington Apartments"
+        ],
+        "Scissors ": [
+            "Pickman Gallery",
+            "Revere Beach station",
+            "Andrew station"
+        ],
+        "Shopping basket ": [
+            "Fallon's department store",
+            "Super Duper Mart",
+            "College Square",
+            "Hardware Town",
+            "Jamaica Plain",
+            "Sanctuary Hills",
+            "Saugus Ironworks",
+            "RobCo Sales & Service Center"
+        ],
+        "Suprathaw antifreeze ": [
+            "Federal surveillance center K-21B",
+            "Yangtze",
+            "Poseidon Energy",
+            "Wilson Atomatoys factory",
+            "The Prydwen",
+            "Wicked Shipping Fleet Lockup"
+        ],
+        "Swan boat fragments": [],
+        "Toothpaste ": [
+            "Parsons State Insane Asylum",
+            "Vault 75",
+            "Back Street Apparel"
+        ],
+        "Toy alien ": [
+            "ArcJet Systems",
+            "Atom Cats garage",
+            "Boxing gym",
+            "Cambridge Polymer Labs",
+            "Cutler Bend",
+            "Crater of Atom",
+            "Dunwich Borers",
+            "Faneuil Hall",
+            "Fens Street sewer",
+            "Jamaica Plain",
+            "Massachusetts State House",
+            "Poseidon Energy",
+            "The Prydwen",
+            "Railroad HQ",
+            "Revere Beach station",
+            "Saugus Ironworks",
+            "Ticker Tape Lounge",
+            "Vault 75",
+            "Vault-Tec Regional HQ",
+            "Warwick homestead",
+            "West Everett Estates",
+            "West Roxbury station",
+            "Fort Hagen satellite array",
+            "The Mechanist's lair"
+        ],
+        "Toy rocketship ": [],
+        "Pool ball ": [
+            "Andrew station",
+            "Atom Cats garage",
+            "Cabot House",
+            "Revere Beach station",
+            "Trinity Tower",
+            "General Atomics Galleria",
+            "Fort Hagen",
+            "Prost Bar",
+            "Boylston Club",
+            "Parkview Apartments",
+            "Natick Banks",
+            "Med-Tek Research"
+        ],
+        "Umbrella ": [
+            "Croup Manor",
+            "College Square",
+            "D.B. Technical High School",
+            "Diamond City market",
+            "Salem",
+            "Boston mayoral shelter",
+            "Cabot House",
+            "Coastal cottage",
+            "Crater House",
+            "Salem"
+        ]
+    },
+    "Rubber": {
+        "Bonesaw ": [
+            "Longneck Lukowski's Cannery",
+            "Fort Hagen filling station",
+            "D.B. Technical High School",
+            "Med-Tek Research",
+            "The Prydwen",
+            "Vault 75"
+        ],
+        "Extinguisher ": [
+            "Sanctuary Hills"
+        ],
+        "Basketball ": [
+            "Boston mayoral shelter",
+            "D.B. Technical High School",
+            "Vault 75",
+            "Layton Towers",
+            "Massachusetts State House",
+            "Revere Beach station"
+        ],
+        "Kickball ": [],
+        "Plunger ": [
+            "Vault-Tec Regional HQ"
+        ],
+        "Saw ": [
+            "General Atomics factory",
+            "Irish Pride Industries shipyard",
+            "The Institute",
+            "Railroad HQ",
+            "Saugus Ironworks",
+            "East Boston Preparatory School",
+            "Federal ration stockpile"
+        ],
+        "Spatula ": [
+            "D.B. Technical High School",
+            "Haymarket Mall",
+            "Monsignor Plaza",
+            "Campus law offices",
+            "Boston mayoral shelter"
+        ],
+        "Toy alien ": [
+            "ArcJet Systems",
+            "Atom Cats garage",
+            "Boxing gym",
+            "Cambridge Polymer Labs",
+            "Cutler Bend",
+            "Crater of Atom",
+            "Dunwich Borers",
+            "Faneuil Hall",
+            "Fens Street sewer",
+            "Jamaica Plain",
+            "Massachusetts State House",
+            "Poseidon Energy",
+            "The Prydwen",
+            "Railroad HQ",
+            "Revere Beach station",
+            "Saugus Ironworks",
+            "Ticker Tape Lounge",
+            "Vault 75",
+            "Vault-Tec Regional HQ",
+            "Warwick homestead",
+            "West Everett Estates",
+            "West Roxbury station",
+            "Fort Hagen satellite array",
+            "The Mechanist's lair"
+        ]
+    },
+    "Screw": {
+        "Antique globe ": [
+            "Boston Public Library",
+            "National Guard training yard",
+            "Parsons State Insane Asylum",
+            "Suffolk County Charter School",
+            "Vault-Tec Regional HQ",
+            "Cabot House",
+            "USAF Satellite Station Olivia",
+            "Museum of Freedom",
+            "Walden Pond",
+            "Medford Memorial Hospital"
+        ],
+        "Chem box ": [
+            "Corvega assembly plant",
+            "Kendall Hospital",
+            "Layton Towers",
+            "Federal ration stockpile"
+        ],
+        "Desk fan ": [
+            "Vault 81",
+            "Sunshine Tidings co-op",
+            "Sandy Coves Convalescent Home",
+            "Mass Bay Medical Center"
+        ],
+        "Giddyup Buttercup ": [
+            "Wilson Atomatoys corporate HQ",
+            "Wilson Atomatoys factory",
+            "Vault 81",
+            "Diamond City",
+            "Warwick homestead",
+            "Harbormaster Hotel",
+            "General Atomics factory"
+        ],
+        "Giddyup Buttercup parts ": [
+            "Wilson Atomatoys factory",
+            "Wilson Atomatoys corporate HQ",
+            "Atom Cats garage",
+            "Red Rocket truck stop"
+        ],
+        "Globe ": [
+            "Sanctuary Hills",
+            "Vault 75",
+            "Spectacle Island",
+            "The Institute",
+            "ArcJet Systems",
+            "Prost Bar"
+        ],
+        "Handcuffs ": [
+            "Med-Tek Research",
+            "Cambridge Police Station",
+            "Fort Strong",
+            "Covenant",
+            "Wilson Atomatoys corporate HQ"
+        ],
+        "Hot plate ": [
+            "Vault 111",
+            "Abernathy farm",
+            "Gorski cabin",
+            "The Prydwen"
+        ],
+        "Hubcap ": [
+            "Corvega assembly plant",
+            "Starlight Drive In"
+        ],
+        "Mini nuke stabilizer fins ": [
+            "Gorski cabin"
+        ],
+        "Pepper mill ": [
+            "Monsignor Plaza",
+            "Electrical Hobbyist's Club",
+            "Railroad HQ",
+            "Wicked Shipping Fleet Lockup",
+            "USS Constitution"
+        ],
+        "Steamer trunk ": [],
+        "Toy car ": [
+            "Andrew station",
+            "Cutler Bend",
+            "Parsons State Insane Asylum",
+            "Sanctuary Hills",
+            "Vault 81"
+        ],
+        "Toy truck ": [
+            "Fraternal Post 115",
+            "Vault 75",
+            "Vault 81",
+            "Boston Public Library",
+            "Andrew station"
+        ],
+        "Typewriter ": [
+            "Natick Police Department",
+            "Cambridge Police Station",
+            "South Boston Police Department",
+            "ArcJet Systems",
+            "Boston Bugle building",
+            "Covenant",
+            "Sanctuary Hills"
+        ],
+        "Weed whacker ": [
+            "Sanctuary Hills"
+        ]
+    },
+    "Silver": {
+        "Antique pocket watch": [],
+        "Silver locket ": [
+            "Fallon's department store",
+            "Bunker Hill"
+        ],
+        "Enhanced targeting card": [
+            "Decrepit factory",
+            "Robotics disposal ground",
+            "Weston water treatment plant"
+        ],
+        "Fancy hairbrush ": [
+            "Vault 81",
+            "Vault 75",
+            "Boston Public Library",
+            "Milton General Hospital",
+            "West Roxbury station",
+            "Andrew station"
+        ],
+        "Silver bar": [
+            "West Everett Estates",
+            "North End graveyard"
+        ],
+        "Silver bowl ": [
+            "Haymarket Mall"
+        ],
+        "Silver fork": [
+            "Vault 114",
+            "Bunker Hill"
+        ],
+        "Silver plate ": [
+            "Forest Grove marsh",
+            "Medford Memorial Hospital"
+        ],
+        "Silver pocket watch ": [
+            "Croup Manor",
+            "Big John's Salvage",
+            "Boston mayoral shelter"
+        ],
+        "Silver table knife ": [
+            "Haymarket Mall"
+        ],
+        "Silver table spoon ": [
+            "Haymarket Mall",
+            "Longneck Lukowski's Cannery",
+            "National Guard training yard"
+        ]
+    },
+    "Spring": {
+        "Alarm clock ": [
+            "Sandy Coves Convalescent Home",
+            "HalluciGen, Inc.",
+            "Mass Fusion building",
+            "Vault 81",
+            "Vault 95"
+        ],
+        "Antique pocket watch": [],
+        "Battered clipboard": [],
+        "Camera ": [],
+        "Fishing rod ": [
+            "Sanctuary Hills",
+            "Weston water treatment plant",
+            "Parsons Creamery",
+            "The Castle",
+            "Walden Pond"
+        ],
+        "Flip lighter ": [],
+        "Giddyup Buttercup ": [
+            "Wilson Atomatoys corporate HQ",
+            "Wilson Atomatoys factory",
+            "Vault 81",
+            "Diamond City",
+            "Warwick homestead",
+            "Harbormaster Hotel",
+            "General Atomics factory"
+        ],
+        "Giddyup Buttercup parts ": [
+            "Wilson Atomatoys factory",
+            "Wilson Atomatoys corporate HQ",
+            "Atom Cats garage",
+            "Red Rocket truck stop"
+        ],
+        "Gold watch ": [
+            "Charles View Amphitheater",
+            "Gunners plaza",
+            "General Atomics Galleria",
+            "Cabot House",
+            "Corvega assembly plant",
+            "Andrew station",
+            "Holy Mission Congregation",
+            "ArcJet Systems",
+            "Wilson Atomatoys corporate HQ"
+        ],
+        "Handcuffs ": [
+            "Med-Tek Research",
+            "Cambridge Police Station",
+            "Fort Strong",
+            "Covenant",
+            "Wilson Atomatoys corporate HQ"
+        ],
+        "Kitchen scale ": [
+            "Med-Tek Research",
+            "The Institute",
+            "Bunker Hill",
+            "Cambridge campus diner",
+            "Cambridge Polymer Labs",
+            "Corvega assembly plant",
+            "Easy City Downs",
+            "Mass Bay Medical Center",
+            "Railroad HQ",
+            "Sanctuary Hills",
+            "Vault 111",
+            "Science Center gift shop",
+            "Spectacle Island"
+        ],
+        "ProSnap camera": [
+            "HalluciGen, Inc.",
+            "Vault 75",
+            "Fort Strong",
+            "West Roxbury station",
+            "South Boston High School",
+            "Back Street Apparel",
+            "Federal Surveillance Center K-21B",
+            "Pickman Gallery",
+            "Boston mayoral shelter"
+        ],
+        "Silver pocket watch ": [
+            "Croup Manor",
+            "Big John's Salvage",
+            "Boston mayoral shelter"
+        ],
+        "Toaster ": [
+            "Vault 81",
+            "Cabot House"
+        ],
+        "Typewriter ": [
+            "Natick Police Department",
+            "Cambridge Police Station",
+            "South Boston Police Department",
+            "ArcJet Systems",
+            "Boston Bugle building",
+            "Covenant",
+            "Sanctuary Hills"
+        ],
+        "Undamaged camera": []
+    },
+    "Steel": {
+        "Adjustable wrench ": [],
+        "Hammer ": [],
+        "Bandage scissors ": [
+            "Med-Tek Research",
+            "Milton General Hospital",
+            "Railroad HQ",
+            "Vault 95",
+            "Yangtze",
+            "The Mechanist's lair"
+        ],
+        "Blowtorch ": [
+            "Boston Airport",
+            "Saugus Ironworks",
+            "USS Constitution",
+            "Vault 114",
+            "HalluciGen, Inc.",
+            "Mahkra Fishpacking",
+            "Malden Center",
+            "The Prydwen",
+            "Weston water treatment plant",
+            "The Mechanist's lair",
+            "Fort Hagen satellite array"
+        ],
+        "Bonesaw ": [
+            "Longneck Lukowski's Cannery",
+            "Fort Hagen filling station",
+            "D.B. Technical High School",
+            "Med-Tek Research",
+            "The Prydwen",
+            "Vault 75"
+        ],
+        "Brotherhood of Steel holotag ": [
+            "National Guard training yard"
+        ],
+        "Bunsen burner ": [
+            "Greenetech Genetics",
+            "Greater Mass Blood Clinic",
+            "HalluciGen, Inc.",
+            "Boston Public Library",
+            "The Mechanist's lair"
+        ],
+        "Can ": [
+            "Federal ration stockpile",
+            "Drumlin Diner",
+            "Cambridge Polymer Labs",
+            "Vault 95",
+            "Corvega assembly plant",
+            "Gunners plaza"
+        ],
+        "Clothing iron ": [
+            "Cambridge Polymer Labs",
+            "East Boston Preparatory School",
+            "Jamaica Plain",
+            "Layton Towers",
+            "Old Gullet sinkhole",
+            "Quincy ruins",
+            "Railroad HQ",
+            "Back Street Apparel"
+        ],
+        "Coffee pot ": [],
+        "Condensed fog": [],
+        "Condenser power module": [],
+        "Combination wrench ": [
+            "Boston Airport",
+            "USS Constitution",
+            "The Prydwen",
+            "Vault 114",
+            "Cambridge Police Station",
+            "Irish Pride Industries shipyard",
+            "Somerville Place",
+            "Wattz Consumer Electronics",
+            "Yangtze"
+        ],
+        "Auto part ": [
+            "Corvega assembly plant",
+            "General Atomics factory",
+            "Corvega assembly plant",
+            "General Atomics factory",
+            "Yangtze",
+            "Corvega assembly plant",
+            "General Atomics factory"
+        ],
+        "Cooking pan ": [
+            "Diamond City",
+            "Cabot House",
+            "Easy City Downs",
+            "Layton Towers",
+            "Poseidon Energy",
+            "Shaw High School",
+            "Ticker Tape Lounge",
+            "Hub 360"
+        ],
+        "Desk fan ": [
+            "Vault 81",
+            "Sunshine Tidings co-op",
+            "Sandy Coves Convalescent Home",
+            "Mass Bay Medical Center"
+        ],
+        "Dinner fork ": [
+            "Hub 360",
+            "Yangtze",
+            "Shaw High School",
+            "Fort Strong",
+            "Parsons State Insane Asylum",
+            "Covenant",
+            "Fallon's department store",
+            "Water Street apartments",
+            "The Gwinnett Restaurant",
+            "Vault 81"
+        ],
+        "Dog tags ": [
+            "Mass Pike Interchange",
+            "Fort Hagen satellite array",
+            "Greater Mass Blood Clinic",
+            "Diamond City"
+        ],
+        "Empty paint can ": [
+            "Factory"
+        ],
+        "Enamel bucket ": [],
+        "Extinguisher ": [
+            "Sanctuary Hills"
+        ],
+        "Flip lighter ": [],
+        "Gas canister ": [
+            "Park Street station",
+            "Coast Guard pier",
+            "Big John's Salvage",
+            "Corvega assembly plant",
+            "South Boston Police Department",
+            "Diamond City",
+            "The Prydwen"
+        ],
+        "Giddyup Buttercup ": [
+            "Wilson Atomatoys corporate HQ",
+            "Wilson Atomatoys factory",
+            "Vault 81",
+            "Diamond City",
+            "Warwick homestead",
+            "Harbormaster Hotel",
+            "General Atomics factory"
+        ],
+        "Giddyup Buttercup parts ": [
+            "Wilson Atomatoys factory",
+            "Wilson Atomatoys corporate HQ",
+            "Atom Cats garage",
+            "Red Rocket truck stop"
+        ],
+        "Handcuffs ": [
+            "Med-Tek Research",
+            "Cambridge Police Station",
+            "Fort Strong",
+            "Covenant",
+            "Wilson Atomatoys corporate HQ"
+        ],
+        "Industrial solvent ": [
+            "Poseidon Energy",
+            "Fort Strong",
+            "Greenetech Genetics",
+            "Gwinnett Brewery",
+            "HalluciGen, Inc.",
+            "Hardware Town",
+            "The Institute",
+            "Massachusetts State House",
+            "Pickman Gallery",
+            "Ticker Tape Lounge",
+            "Mass Bay Medical Center",
+            "Wilson Atomatoys corporate HQ"
+        ],
+        "Jug": [],
+        "Kitchen scale ": [
+            "Med-Tek Research",
+            "The Institute",
+            "Bunker Hill",
+            "Cambridge campus diner",
+            "Cambridge Polymer Labs",
+            "Corvega assembly plant",
+            "Easy City Downs",
+            "Mass Bay Medical Center",
+            "Railroad HQ",
+            "Sanctuary Hills",
+            "Vault 111",
+            "Science Center gift shop",
+            "Spectacle Island"
+        ],
+        "Ladle ": [
+            "Cabot House",
+            "Cambridge campus diner",
+            "D.B. Technical High School",
+            "Easy City Downs",
+            "Four Leaf Fishpacking plant",
+            "Fort Strong",
+            "Haymarket Mall",
+            "Malden Center",
+            "Med-Tek Research",
+            "Museum of Witchcraft",
+            "Railroad HQ",
+            "Revere Beach station",
+            "Shenley's Oyster Bar",
+            "Union Man's Circle",
+            "Vault 95",
+            "Yangtze",
+            "Vault 81"
+        ],
+        "Lantern ": [
+            "Dunwich Borers",
+            "Nahant Oceanological Society",
+            "Fort Hagen",
+            "Fallon's department store"
+        ],
+        "Luxobrew coffee pot ": [
+            "Corvega assembly plant",
+            "West Everett Estates",
+            "Skylanes Flight 1981",
+            "Parsons State Insane Asylum",
+            "Greenetech Genetics",
+            "Lexington",
+            "Beantown Brewery"
+        ],
+        "Lumberjack saw (Far Harbor)": [],
+        "Medical liquid nitrogen dispenser ": [
+            "Medford Memorial Hospital",
+            "Med-Tek Research",
+            "Kendall Hospital",
+            "Mass Bay Medical Center",
+            "Milton General Hospital"
+        ],
+        "Metal bucket ": [],
+        "Mr. Handy fuel ": [
+            "Sanctuary Hills",
+            "Super Duper Mart",
+            "Monsignor Plaza",
+            "Back Street Apparel",
+            "Parkview Apartments",
+            "Graygarden",
+            "Boston mayoral shelter",
+            "Rocky cave",
+            "The Prydwen",
+            "Old Gullet sinkhole",
+            "RobCo Sales & Service Center"
+        ],
+        "Oil canister ": [],
+        "Paint can ": [
+            "Hardware Town",
+            "Pickman Gallery",
+            "Federal ration stockpile",
+            "Vault 81",
+            "Parsons State Insane Asylum",
+            "Mass Pike Tunnel east",
+            "Somerville Place"
+        ],
+        "Power relay coil ": [
+            "Yangtze",
+            "Rocky cave",
+            "The Institute",
+            "Mass Pike Interchange"
+        ],
+        "Rat poison ": [
+            "East Boston Preparatory School",
+            "Greenetech Genetics",
+            "Cambridge Police Station",
+            "Federal surveillance center K-21B",
+            "Natick Banks",
+            "Vault 75",
+            "Dartmouth Professional Building",
+            "Hawthorne Estate",
+            "Fort Hagen satellite array",
+            "The Mechanist's lair"
+        ],
+        "Red paint ": [],
+        "Sauce pan ": [
+            "Mass Bay Medical Center",
+            "West Everett Estates",
+            "Monsignor Plaza",
+            "Easy City Downs",
+            "Sanctuary Hills",
+            "Boston Public Library"
+        ],
+        "Sauce pan lid ": [
+            "West Everett Estates",
+            "Sanctuary Hills",
+            "Salem",
+            "D.B. Technical High School"
+        ],
+        "Saw ": [
+            "General Atomics factory",
+            "Irish Pride Industries shipyard",
+            "The Institute",
+            "Railroad HQ",
+            "Saugus Ironworks",
+            "East Boston Preparatory School",
+            "Federal ration stockpile"
+        ],
+        "Scalpel ": [],
+        "Scissors ": [
+            "Pickman Gallery",
+            "Revere Beach station",
+            "Andrew station"
+        ],
+        "Screwdriver ": [],
+        "Shopping basket ": [
+            "Fallon's department store",
+            "Super Duper Mart",
+            "College Square",
+            "Hardware Town",
+            "Jamaica Plain",
+            "Sanctuary Hills",
+            "Saugus Ironworks",
+            "RobCo Sales & Service Center"
+        ],
+        "Shovel ": [
+            "Jalbert Brothers Disposal",
+            "Rocky Narrows Park",
+            "Sanctuary Hills",
+            "Pickman Gallery",
+            "Cambridge Police Station",
+            "Park Street station",
+            "Vault 114",
+            "Murkwater construction site",
+            "Starlight Drive In",
+            "Spectacle Island",
+            "Big John's Salvage",
+            "Goodneighbor",
+            "Vault 81"
+        ],
+        "Surgical scalpel ": [
+            "Pickman Gallery",
+            "Milton General Hospital",
+            "Medford Memorial Hospital",
+            "Nahant Oceanological Society",
+            "Vault 81"
+        ],
+        "Swan boat fragments": [],
+        "Table knife ": [],
+        "Tea kettle ": [
+            "Monsignor Plaza",
+            "Sanctuary Hills",
+            "Railroad HQ",
+            "USS Constitution",
+            "Fallon's department store",
+            "Ticker Tape Lounge",
+            "Nakano residence"
+        ],
+        "Tin can ": [
+            "Faneuil Hall",
+            "Federal ration stockpile",
+            "Vault 95",
+            "Thicket Excavations",
+            "Vault 114",
+            "Greenetech Genetics",
+            "Corvega assembly plant",
+            "Saugus Ironworks",
+            "West Roxbury station",
+            "Cambridge Polymer Labs",
+            "Wicked Shipping Fleet Lockup",
+            "Vault 81",
+            "NH&M Freight Depot",
+            "Drumlin Diner",
+            "Finch farm",
+            "Vault 75",
+            "Walden Pond",
+            "Fort Hagen",
+            "Cabot House",
+            "Vault 81",
+            "Vault 114",
+            "USAF Satellite Station Olivia",
+            "Sandy Coves Convalescent Home"
+        ],
+        "Toaster ": [
+            "Vault 81",
+            "Cabot House"
+        ],
+        "Toy truck ": [
+            "Fraternal Post 115",
+            "Vault 75",
+            "Vault 81",
+            "Boston Public Library",
+            "Andrew station"
+        ],
+        "Turpentine ": [
+            "Yangtze"
+        ],
+        "Used oil can ": [
+            "Sanctuary Hills",
+            "Vault 111"
+        ],
+        "Wrench ": []
+    },
+    "Wood": {
+        "Anchorage veteran's flag": [],
+        "Hammer ": [],
+        "Battered clipboard": [],
+        "Blast Radius board game ": [
+            "East Boston Preparatory School",
+            "Irish Pride Industries shipyard",
+            "Jamaica Plain",
+            "Sandy Coves Convalescent Home",
+            "Suffolk County Charter School",
+            "Back Street Apparel",
+            "Boston mayoral shelter",
+            "College Square",
+            "Dunwich Borers",
+            "Easy City Downs",
+            "Gunners plaza",
+            "Goodneighbor",
+            "Hardware Town",
+            "Hawthorne Estate",
+            "The Institute",
+            "Medford Memorial Hospital",
+            "Med-Tek Research",
+            "Parsons Creamery",
+            "Parsons State Insane Asylum",
+            "Prost Bar",
+            "Science Center gift shop"
+        ],
+        "Broom ": [
+            "Fort Hagen",
+            "Poseidon Energy",
+            "Corvega assembly plant",
+            "Vault 114",
+            "Greenetech Genetics",
+            "Mass Fusion building",
+            "Andrew station",
+            "Gunners plaza",
+            "East Boston Preparatory School",
+            "Saugus Ironworks",
+            "Parsons State Insane Asylum",
+            "Vault 81",
+            "USAF Satellite Station Olivia"
+        ],
+        "Chessboard ": [
+            "Boston Bugle building",
+            "Boston Public Library",
+            "East Boston Preparatory School",
+            "Easy City Downs",
+            "HalluciGen, Inc.",
+            "Irish Pride Industries shipyard",
+            "Jamaica Plain",
+            "Med-Tek Research",
+            "Mass Fusion building",
+            "Parsons State Insane Asylum",
+            "The Prydwen",
+            "Revere Beach station",
+            "Sandy Coves Convalescent Home",
+            "Suffolk County Charter School",
+            "Vault 75",
+            "Vault 95"
+        ],
+        "Cigar box ": [
+            "Diamond City",
+            "Andrew station",
+            "Fort Hagen",
+            "Revere Beach station",
+            "Covenant",
+            "Fallon's department store",
+            "Parsons State Insane Asylum",
+            "The Prydwen",
+            "Trinity Tower",
+            "BADTFL regional office",
+            "College Square",
+            "Gunners plaza",
+            "HalluciGen, Inc.",
+            "Libertalia",
+            "Massachusetts State House",
+            "The Shamrock Taphouse",
+            "South Boston Police Department",
+            "USAF Satellite Station Olivia",
+            "West Roxbury station",
+            "Goodneighbor",
+            "Fort Hagen satellite array"
+        ],
+        "Cutting board ": [
+            "Spectacle Island",
+            "Andrew station"
+        ],
+        "Desktop picture frame ": [
+            "Sandy Coves Convalescent Home",
+            "Hyde Park",
+            "Mass Bay Medical Center",
+            "Vault-Tec Regional HQ",
+            "C.I.T. ruins",
+            "Gunners plaza",
+            "Nahant Chapel",
+            "Vault 75",
+            "Wildwood Cemetery",
+            "West Everett Estates",
+            "Andrew station",
+            "Boston Bugle building",
+            "Massachusetts State House",
+            "Back Street Apparel"
+        ],
+        "Fishing rod ": [
+            "Sanctuary Hills",
+            "Weston water treatment plant",
+            "Parsons Creamery",
+            "The Castle",
+            "Walden Pond"
+        ],
+        "League bowling pin ": [
+            "West Everett Estates",
+            "Hubris Comics",
+            "Pickman Gallery",
+            "General Atomics factory",
+            "Irish Pride Industries shipyard",
+            "Mass Pike Tunnel west",
+            "D.B. Technical High School",
+            "Parsons State Insane Asylum",
+            "Ticonderoga",
+            "Prost Bar"
+        ],
+        "Lumberjack saw (Far Harbor)": [],
+        "Makeshift battery ": [
+            "Sanctuary Hills",
+            "Thicket Excavations",
+            "Egret Tours Marina",
+            "Andrew station",
+            "Hardware Town",
+            "Parkview Apartments",
+            "Pickman Gallery",
+            "East Boston Preparatory School",
+            "Mass Pike Interchange",
+            "Robotics disposal ground",
+            "Oberland station",
+            "Croup Manor",
+            "Federal ration stockpile",
+            "Cambridge campus diner"
+        ],
+        "Mop ": [
+            "Vault 81"
+        ],
+        "Paintbrush ": [
+            "General Atomics Galleria",
+            "D.B. Technical High School",
+            "Easy City Downs",
+            "Federal ration stockpile",
+            "The Institute",
+            "Parsons State Insane Asylum",
+            "Vault 114",
+            "Park Street station",
+            "Vault 81",
+            "Abernathy farm",
+            "Pickman Gallery",
+            "The Prydwen",
+            "Saugus Ironworks"
+        ],
+        "Pencil ": [
+            "Railroad HQ",
+            "Cambridge Polymer Labs"
+        ],
+        "Plunger ": [
+            "Vault-Tec Regional HQ"
+        ],
+        "Rack ": [
+            "Boylston Club"
+        ],
+        "Screwdriver ": [],
+        "Shovel ": [
+            "Jalbert Brothers Disposal",
+            "Rocky Narrows Park",
+            "Sanctuary Hills",
+            "Pickman Gallery",
+            "Cambridge Police Station",
+            "Park Street station",
+            "Vault 114",
+            "Murkwater construction site",
+            "Starlight Drive In",
+            "Spectacle Island",
+            "Big John's Salvage",
+            "Goodneighbor",
+            "Vault 81"
+        ],
+        "Tabletop picture frame ": [
+            "Back Street Apparel",
+            "Easy City Downs",
+            "HalluciGen, Inc.",
+            "Ticonderoga",
+            "Wilson Atomatoys corporate HQ"
+        ],
+        "Test tube rack ": [
+            "Cambridge Polymer Labs",
+            "Medford Memorial Hospital",
+            "ArcJet Systems"
+        ],
+        "Toy car ": [
+            "Andrew station",
+            "Cutler Bend",
+            "Parsons State Insane Asylum",
+            "Sanctuary Hills",
+            "Vault 81"
+        ],
+        "Trifold American flag ": [
+            "Fort Hagen",
+            "Railroad HQ",
+            "Sanctuary Hills",
+            "Sandy Coves Convalescent Home",
+            "Parsons State Insane Asylum",
+            "ArcJet Systems",
+            "Prost Bar",
+            "Vault 81",
+            "Cabot House"
+        ],
+        "Wooden block ": [
+            "Cambridge Polymer Labs",
+            "Goodneighbor",
+            "Parsons State Insane Asylum",
+            "Salem",
+            "Wicked Shipping Fleet Lockup",
+            "Vault 75",
+            "Vault 81",
+            "Water Street apartments",
+            "West Everett Estates"
+        ],
+        "Wooden spoon ": [
+            "Greentop Nursery",
+            "D.B. Technical High School",
+            "Four Leaf Fishpacking plant"
+        ],
+        "Yardstick ": [
+            "Wilson Atomatoys corporate HQ",
+            "Cambridge Polymer Labs",
+            "Vault-Tec Regional HQ",
+            "Cambridge Police Station",
+            "Ticonderoga"
+        ]
+    }
+}
