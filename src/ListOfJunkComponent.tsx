@@ -1,7 +1,10 @@
 import 'leaflet/dist/leaflet.css';
 import { getProductionSection, getLocationsSection, format } from "./APICall.tsx";
 import { filterMaps, showAll } from './MapComponent.tsx';
+import junkData from "./junkData.json";
 function ListOfJunkComponent() {
+
+    const jsonData: Record<string, Record<string, string[]>> = junkData;
 
     async function getJunkAndComponentData(selected: string) {
         var list: string[] = [];
@@ -64,15 +67,25 @@ function ListOfJunkComponent() {
         const dropdown = document.getElementById("dropdown") as HTMLSelectElement;
         if (dropdown) {
             const selected = dropdown.options[dropdown.selectedIndex].text
-            var list: string[] = [];
+            const sel = jsonData[selected]
+            var biggestList: string[] = [];
+            
+            Object.entries(sel).forEach(([key, value]) => {
+                value.forEach(item => {
+                    if (!biggestList.includes(item))
+                        biggestList.push(item)
+                });
+            });
+            /*var list: string[] = [];
             var bigList: string[] = [];
             var biggestList: string[] = [];
 
             const result = await getProductionSection(selected + ' (Fallout 4)');
             list = format(result);
-
+            */
             const resultList = document.getElementById('results') as HTMLSelectElement;
             resultList.innerHTML = "";
+            /*
             for (const element of list) {
                 console.log(element)
                 let result = await getLocationsSection(element + ' (Fallout 4)');
@@ -84,7 +97,7 @@ function ListOfJunkComponent() {
                 bigList.forEach(bigElement => {
                     biggestList.push(bigElement)
                 });
-            }
+            }*/
 
             showAll()
             const hashbrown = filterMaps(biggestList)
